@@ -100,7 +100,7 @@
         <div class="header-wrapper-2">
           <div class="sticky-logo">
             <a href="index-2.html">
-              <img src="assets/images/logo/sticky-logo.png" alt="logo" />
+              <img src="assets/images/logo_168X92.png" alt="logo" />
             </a>
           </div>
           <ul class="menu">
@@ -113,6 +113,20 @@
             </li>
             <li>
               <a href="#about" class="pagescroll">Timeline</a>
+            </li>
+            <li class="menu-item-has-children">
+              <a href="#">Events</a>
+              <ul class="submenu">
+                <li>
+                  <a href="#">Nurul Fikri Leader League</a>
+                </li>
+                <li>
+                  <a href="#">Youth Charity Concert</a>
+                </li>
+                <li>
+                  <a href="#">Next Leader Competitions</a>
+                </li>
+              </ul>
             </li>
             <li class="d-none d-lg-block center-logo">
               <div class="logo">
@@ -129,6 +143,9 @@
             </li>
             <li>
               <a href="#sponsors">Sponsors</a>
+            </li>
+            <li>
+              <a href="#">Contact</a>
             </li>
           </ul>
           <div class="header-bar">
