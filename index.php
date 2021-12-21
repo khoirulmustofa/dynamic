@@ -84,13 +84,13 @@
         <span class="left">Welcome to DYNAMIC SMPIT NFBS BOGOR</span>
         <ul>
           <li>
-            <a href="#0">Facebook</a>
+            <a href="#0" class="custom-button" target="_blank" style="line-height: unset;">Facebook</a>
           </li>
           <li>
-            <a href="#0">Instagram</a>
+            <a href="https://instagram.com/nfbs_dynamics" target="_blank" style="line-height: unset;" class="custom-button">Instagram</a>
           </li>
           <li>
-            <a href="#0">Youtube</a>
+            <a href="#0" style="line-height: unset;" target="_blank" class="custom-button">Youtube</a>
           </li>
         </ul>
       </div>
@@ -124,7 +124,7 @@
                   <a href="#">Youth Charity Concert</a>
                 </li>
                 <li>
-                  <a href="#">Next Leader Competitions</a>
+                  <a href="#NLC">Next Leader Competitions</a>
                 </li>
               </ul>
             </li>
@@ -145,7 +145,7 @@
               <a href="#sponsors">Sponsors</a>
             </li>
             <li>
-              <a href="#">Contact</a>
+              <a href="#contact_us">Contact</a>
             </li>
           </ul>
           <div class="header-bar">
@@ -212,45 +212,6 @@
   </section>
   <!-- ========About Section Ends Here======== -->
 
-  <!-- ========Vision Section Starts Here======== -->
-  <section class="vision-section padding-top">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-6">
-          <div class="h-100 w-100 bg_img" data-background="assets/images/about.jpg"></div>
-        </div>
-        <div class="col-lg-6">
-          <div class="section-header text-left">
-            <h2 class="title mt-lg-0">Our Vision</h2>
-            <p>
-              Lorem ipsum dolor sit amet, id in nam dictum erat lorem. Libero
-              sed quis, sem faucibus lacus donec, in velit pellentesque
-              libero, sed vulspendisse lectus id ut enim. Dui sed. Sapien
-              curabitur. Enim velit tinciduneque amet libero, nulla
-              consectetuer torquent augue lobortis inceptos rhoncus nonummy.
-              Nibh gravida sed cras, conubia urna aliquam, in platea, nisl
-            </p>
-          </div>
-          <ul class="mommodo-list">
-            <li>
-              Mommodo odio ut cras, mauris nihilit magna aliquet arcu aliquet,
-              montes tortor
-            </li>
-            <li>
-              Mommodo odio ut cras, mauris nihilit magna aliquet arcu aliquet,
-              montes tortor
-            </li>
-            <li>
-              Mommodo odio ut cras, mauris nihilit magna aliquet arcu aliquet,
-              montes tortor
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- ========Vision Section Ends Here======== -->
-
   <!-- ========How Section Starts Here======== -->
   <section class="how-section padding-bottom padding-top">
     <div class="container">
@@ -280,11 +241,11 @@
   <!-- ========How Section Ends Here======== -->
 
   <!-- ========Games Section Starts Here======== -->
-  <section class="games-section padding-bottom padding-top bg-overlay bg_img" data-background="assets/images/games/game-bg.jpg">
+  <section id="NLC" class="games-section padding-bottom padding-top bg-overlay bg_img" data-background="assets/images/games/game-bg.jpg">
     <div class="container">
-      <div class="section-header">
-        <h2 class="title">play Popular games</h2>
-      </div>
+      <div class="section-header-2">
+      <h2 class="title">Next Leader Competitions</h2>
+    </div>
       <div class="row justify-content-center mb-40-65-none">
         <div class="col-sm-10 col-md-6 col-xl-4">
           <div class="games-item">
@@ -292,12 +253,12 @@
               <a href="#0"><img src="assets/images/games/games01.jpg" alt="game" /></a>
             </div>
             <div class="games-content">
-              <h5 class="title"><a href="#0">Viking</a></h5>
+              <h5 class="title"><a href="#0">Futsal</a></h5>
               <p>
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
                 nibh pharetra orem bibendum elit mauris odio
               </p>
-              <a href="#0" class="custom-button active">play now</a>
+              <a href="#0" class="custom-button active">Register</a>
             </div>
           </div>
         </div>
@@ -307,12 +268,12 @@
               <a href="#0"><img src="assets/images/games/games02.jpg" alt="game" /></a>
             </div>
             <div class="games-content">
-              <h5 class="title"><a href="#0">Pixel hunter</a></h5>
+              <h5 class="title"><a href="#0">Basketball</a></h5>
               <p>
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
                 nibh pharetra orem bibendum elit mauris odio
               </p>
-              <a href="#0" class="custom-button active">play now</a>
+              <a href="#0" class="custom-button active">Register</a>
             </div>
           </div>
         </div>
@@ -327,7 +288,7 @@
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
                 nibh pharetra orem bibendum elit mauris odio
               </p>
-              <a href="#0" class="custom-button active">play now</a>
+              <a href="#0" class="custom-button active">Register</a>
             </div>
           </div>
         </div>
@@ -342,7 +303,7 @@
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
                 nibh pharetra orem bibendum elit mauris odio
               </p>
-              <a href="#0" class="custom-button active">play now</a>
+              <a href="#0" class="custom-button active">Register</a>
             </div>
           </div>
         </div>
@@ -357,7 +318,7 @@
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
                 nibh pharetra orem bibendum elit mauris odio
               </p>
-              <a href="#0" class="custom-button active">play now</a>
+              <a href="#0" class="custom-button active">Register</a>
             </div>
           </div>
         </div>
@@ -372,7 +333,7 @@
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
                 nibh pharetra orem bibendum elit mauris odio
               </p>
-              <a href="#0" class="custom-button active">play now</a>
+              <a href="#0" class="custom-button active">Register</a>
             </div>
           </div>
         </div>
@@ -1096,6 +1057,69 @@
     </div>
   </section>
 
+  <section class="contact-section padding-top padding-bottom" id="contact_us">
+  <div class="section-header-2">
+      <h2 class="title">Contact us</h2>
+    </div>
+        <div class="container">
+            <div class="row justify-content-center mb-30-none">
+                <div class="col-sm-10 col-md-6 col-lg-4">
+                    <div class="afiliate-item-3">
+                        <div class="afiliate-thumb">
+                            <i class="flaticon-phone-call"></i>
+                        </div>
+                        <div class="afiliate-content">
+                            <h6 class="title">Call us</h6>
+                            <ul>
+                                <li>
+                                    <a href="Tel:8393849">1111 2222 3333 4444</a>
+                                </li>
+                                <li>
+                                    <a href="Tel:8388383">3333 4444 666 9999</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-10 col-md-6 col-lg-4">
+                    <div class="afiliate-item-3">
+                        <div class="afiliate-thumb">
+                            <i class="flaticon-link"></i>
+                        </div>
+                        <div class="afiliate-content">
+                            <h6 class="title">Visit us</h6>
+                            <ul>
+                                <li>
+                                    <a href="Mailto:demo@gmail.com">ore.gameonline.com</a>
+                                </li>
+                                <li>
+                                    <a href="Mailto:demo@gmail.com">www.demos.com</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-10 col-md-6 col-lg-4">
+                    <div class="afiliate-item-3">
+                        <div class="afiliate-thumb">
+                            <i class="flaticon-conversation"></i>
+                        </div>
+                        <div class="afiliate-content">
+                            <h6 class="title">Live chat</h6>
+                            <ul>
+                                <li>
+                                    <a href="#0">Chate with 24/7</a>
+                                </li>
+                                <li>
+                                    <a href="Tel:8388383">0000 - 1111 - 2222</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
   <!-- ========Footer Section Starts Here======== -->
   <footer class="bg_img bg-lay" data-background="assets/images/footer/footer-bg.jpg">
     <div class="footer-top">
@@ -1117,7 +1141,7 @@
                   <a href="#0"><i class="fab fa-twitter"></i></a>
                 </li>
                 <li>
-                  <a href="#0"><i class="fab fa-instagram"></i></a>
+                  <a href="https://instagram.com/nfbs_dynamics"><i class="fab fa-instagram"></i></a>
                 </li>
               </ul>
             </div>
