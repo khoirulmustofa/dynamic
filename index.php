@@ -139,7 +139,7 @@
               <a href="#">Merchandise</a>
             </li>
             <li>
-              <a href="#">Gallery</a>
+              <a href="#galery">Gallery</a>
             </li>
             <li>
               <a href="#sponsors">Sponsors</a>
@@ -244,8 +244,8 @@
   <section id="NLC" class="games-section padding-bottom padding-top bg-overlay bg_img" data-background="assets/images/games/game-bg.jpg">
     <div class="container">
       <div class="section-header-2">
-      <h2 class="title">Next Leader Competitions</h2>
-    </div>
+        <h2 class="title">Next Leader Competitions</h2>
+      </div>
       <div class="row justify-content-center mb-40-65-none">
         <div class="col-sm-10 col-md-6 col-xl-4">
           <div class="games-item">
@@ -956,57 +956,33 @@
   <!-- ========Affiliate Section Ends Here======== -->
 
   <!-- Galery -->
-  <section class="blog-section padding-top padding-bottom">
+  <section class="post-section padding-top padding-bottom" id="galery">
+    <div class="section-header-2">
+      <h2 class="title">Galery</h2>
+    </div>
     <div class="container">
-      <div class="section-header-2">
-        <h2 class="title">Gallery</h2>
-      </div>
-      <div class="row justify-content-center mb-30-none">
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="post-item">
-            <div class="post-thumb">
-              <a href="#0"><img src="assets/images/blog/blog01.jpg" alt="blog" /></a>
-            </div>
-            <div class="post-content">
-              <div class="meta-post">
-                <a href="#0">25 December, 2020</a>
-                <a href="#0">03 comments</a>
+      <div class="m--15">
+        <div class="feature-slider">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <div class="post-thumb" style="padding: 10px;">
+                <img src="assets/images/blog/blog01.jpg" alt="blog">
               </div>
-              <h6 class="title">
-                <a href="#0">porta felis ac blandit ttique nec fermentum habi</a>
-              </h6>
             </div>
-          </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="post-item">
-            <div class="post-thumb">
-              <a href="#0"><img src="assets/images/blog/blog02.jpg" alt="blog" /></a>
-            </div>
-            <div class="post-content">
-              <div class="meta-post">
-                <a href="#0">25 December, 2020</a>
-                <a href="#0">03 comments</a>
+            <div class="swiper-slide">
+              <div class="post-thumb" style="padding: 10px;">
+                <img src="assets/images/blog/blog01.jpg" alt="blog">
               </div>
-              <h6 class="title">
-                <a href="#0">Cupiditate aliquam facilisis fermen tumcoer</a>
-              </h6>
             </div>
-          </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="post-item">
-            <div class="post-thumb">
-              <a href="#0"><img src="assets/images/blog/blog03.jpg" alt="blog" /></a>
-            </div>
-            <div class="post-content">
-              <div class="meta-post">
-                <a href="#0">25 December, 2020</a>
-                <a href="#0">03 comments</a>
+            <div class="swiper-slide">
+              <div class="post-thumb" style="padding: 10px;">
+                <img src="assets/images/blog/blog01.jpg" alt="blog">
               </div>
-              <h6 class="title">
-                <a href="#0">porta felis ac blandit ttique nec fermentum habi</a>
-              </h6>
+            </div>
+            <div class="swiper-slide">
+              <div class="post-thumb" style="padding: 10px;">
+                <img src="assets/images/blog/blog01.jpg" alt="blog">
+              </div>
             </div>
           </div>
         </div>
@@ -1058,68 +1034,68 @@
   </section>
 
   <section class="contact-section padding-top padding-bottom" id="contact_us">
-  <div class="section-header-2">
+    <div class="section-header-2">
       <h2 class="title">Contact us</h2>
     </div>
-        <div class="container">
-            <div class="row justify-content-center mb-30-none">
-                <div class="col-sm-10 col-md-6 col-lg-4">
-                    <div class="afiliate-item-3">
-                        <div class="afiliate-thumb">
-                            <i class="flaticon-phone-call"></i>
-                        </div>
-                        <div class="afiliate-content">
-                            <h6 class="title">Call us</h6>
-                            <ul>
-                                <li>
-                                    <a href="Tel:8393849">1111 2222 3333 4444</a>
-                                </li>
-                                <li>
-                                    <a href="Tel:8388383">3333 4444 666 9999</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-10 col-md-6 col-lg-4">
-                    <div class="afiliate-item-3">
-                        <div class="afiliate-thumb">
-                            <i class="flaticon-link"></i>
-                        </div>
-                        <div class="afiliate-content">
-                            <h6 class="title">Visit us</h6>
-                            <ul>
-                                <li>
-                                    <a href="Mailto:demo@gmail.com">ore.gameonline.com</a>
-                                </li>
-                                <li>
-                                    <a href="Mailto:demo@gmail.com">www.demos.com</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-10 col-md-6 col-lg-4">
-                    <div class="afiliate-item-3">
-                        <div class="afiliate-thumb">
-                            <i class="flaticon-conversation"></i>
-                        </div>
-                        <div class="afiliate-content">
-                            <h6 class="title">Live chat</h6>
-                            <ul>
-                                <li>
-                                    <a href="#0">Chate with 24/7</a>
-                                </li>
-                                <li>
-                                    <a href="Tel:8388383">0000 - 1111 - 2222</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
+    <div class="container">
+      <div class="row justify-content-center mb-30-none">
+        <div class="col-sm-10 col-md-6 col-lg-4">
+          <div class="afiliate-item-3">
+            <div class="afiliate-thumb">
+              <i class="flaticon-phone-call"></i>
             </div>
+            <div class="afiliate-content">
+              <h6 class="title">Call us</h6>
+              <ul>
+                <li>
+                  <a href="Tel:8393849">1111 2222 3333 4444</a>
+                </li>
+                <li>
+                  <a href="Tel:8388383">3333 4444 666 9999</a>
+                </li>
+              </ul>
+            </div>
+          </div>
         </div>
-    </section>
+        <div class="col-sm-10 col-md-6 col-lg-4">
+          <div class="afiliate-item-3">
+            <div class="afiliate-thumb">
+              <i class="flaticon-link"></i>
+            </div>
+            <div class="afiliate-content">
+              <h6 class="title">Visit us</h6>
+              <ul>
+                <li>
+                  <a href="Mailto:demo@gmail.com">ore.gameonline.com</a>
+                </li>
+                <li>
+                  <a href="Mailto:demo@gmail.com">www.demos.com</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-10 col-md-6 col-lg-4">
+          <div class="afiliate-item-3">
+            <div class="afiliate-thumb">
+              <i class="flaticon-conversation"></i>
+            </div>
+            <div class="afiliate-content">
+              <h6 class="title">Live chat</h6>
+              <ul>
+                <li>
+                  <a href="#0">Chate with 24/7</a>
+                </li>
+                <li>
+                  <a href="Tel:8388383">0000 - 1111 - 2222</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
   <!-- ========Footer Section Starts Here======== -->
   <footer class="bg_img bg-lay" data-background="assets/images/footer/footer-bg.jpg">
     <div class="footer-top">
@@ -1145,7 +1121,7 @@
                 </li>
               </ul>
             </div>
-  
+
           </div>
           <div class="center-shape d-none d-xl-block">
             <img src="assets/images/logo_77x134.png" alt="footer" />
