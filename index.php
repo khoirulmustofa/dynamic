@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-  <title>DYNAMIC - SMPIT NFBS BOGOR</title>
+  <title>DYNAMICS - SMPIT NFBS BOGOR</title>
   <meta name="title" content="Dynamic SMPIT NFBS Bogor" />
   <meta name="description" content="Nurul Fikri Boarding School Bogor is built on an area of 7,6 hectares covering junior and senior high school units. Surrouded by beautiful scenery of Bogor" />
   <meta name="keywords" content="Dynamic,Event,Lomba,SMP,SMPIT,Bogor, PPDB" />
@@ -71,7 +71,7 @@
       <div class="loader1" id="loader1"></div>
       <div class="circle"></div>
       <h4 class="hello">Hello</h4>
-      <h6 class="wellcome">Wellcome to <span>DYNAMIC SMPIT NFBS BOGOR </span>
+      <h6 class="wellcome">Welcome to <span>DYNAMICS SMPIT NFBS BOGOR </span>
       </h6>
     </div>
   </div>
@@ -81,7 +81,7 @@
   <header class="header-one">
     <div class="container">
       <div class="header-top">
-        <span class="left">Welcome to DYNAMIC SMPIT NFBS BOGOR</span>
+        <span class="left">Welcome to DYNAMICS SMPIT NFBS Bogor</span>
         <ul>
           <li>
             <a href="#0" class="custom-button" target="_blank" style="line-height: unset;">Facebook</a>
@@ -163,7 +163,7 @@
   <section class="banner-section bg_img" data-background="assets/images/banner/banner-bg1.png" id="home">
     <div class="container">
       <div class="banner-content">
-        <h1 class="title">DYNAMIC 2022</h1>
+        <h1 class="title">DYNAMICS 2022</h1>
         <p>
           Celebrating Youth, Impact, & Change through Social Movement and Competitions
         </p>
@@ -345,9 +345,10 @@
   <!-- ========Gamers Section Starts Here======== -->
   <section class="gamers-section padding-top padding-bottom">
     <div class="container">
-      <div class="section-header">
-        <h2 class="title">Our best gamers</h2>
-      </div>
+    <div class="container">
+      <div class="section-header-2">
+      <h2 class="title">Our Speakers</h2>
+    </div>
       <div class="row justify-content-center mb-30-none">
         <div class="col-sm-10 col-md-6 col-lg-4">
           <div class="gamer-item section-bg-2">
@@ -1206,7 +1207,7 @@
     </div>
     <div class="footer-bottom">
       <p>
-        Copyright &copy; 2021
+        Copyright &copy; 2022. All Right Reserved by Dynamics NFBS Bogor
       </p>
     </div>
   </footer>
