@@ -985,6 +985,11 @@
                 <img src="assets/images/blog/blog01.jpg" alt="blog">
               </div>
             </div>
+            <div class="swiper-slide">
+              <div class="post-thumb" style="padding: 10px;">
+                <img src="assets/images/blog/blog01.jpg" alt="blog">
+              </div>
+            </div>
           </div>
         </div>
       </div>
