@@ -136,7 +136,7 @@
               <a href="#">Merchandise</a>
             </li>
             <li>
-              <a href="#galery">Gallery</a>
+              <a href="#gallery">Gallery</a>
             </li>
             <li>
               <a href="#sponsors">Sponsors</a>
