@@ -1121,29 +1121,7 @@
                 </li>
               </ul>
             </div>
-            <div class="footer-widget widget-links">
-              <h6 class="title">Useful Links</h6>
-              <ul>
-                <li>
-                  <a href="#0">About</a>
-                </li>
-                <li>
-                  <a href="#0">Policy</a>
-                </li>
-                <li>
-                  <a href="#0">Faq</a>
-                </li>
-                <li>
-                  <a href="#0">Contact</a>
-                </li>
-                <li>
-                  <a href="#0">Terms & Services</a>
-                </li>
-                <li>
-                  <a href="#0">Support</a>
-                </li>
-              </ul>
-            </div>
+  
           </div>
           <div class="center-shape d-none d-xl-block">
             <img src="assets/images/logo_77x134.png" alt="footer" />
