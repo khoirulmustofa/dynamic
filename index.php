@@ -1185,11 +1185,11 @@
               </ul>
             </div>
             <div class="footer-widget widget-contact">
-              <h6 class="title">get in touch</h6>
+              <h6 class="title">Contact Us</h6>
               <ul>
                 <li>
-                  <span>Address</span>
-                  <span>London City ,East 656</span>
+                  <span>Jl Jami, Sukaluyu, Tamansari, Bogor</span>
+                  <span>Jawa Barat, 16610</span>
                 </li>
                 <li>
                   <span>Email</span>
