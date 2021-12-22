@@ -59,6 +59,7 @@
   <link rel="stylesheet" href="assets/css/odometer.css" />
   <link rel="stylesheet" href="assets/css/flaticon.css" />
   <link rel="stylesheet" href="assets/css/main.css" />
+  <link rel="stylesheet" href="assets/css/main.css" />
 
   <!-- Favicon  -->
   <link rel="icon" href="comingsoon/images/favicon.png" />
