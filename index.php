@@ -1107,11 +1107,9 @@
         <div class="footer-wrapper">
           <div class="left-side">
             <div class="footer-widget widget-about">
-              <h6 class="title">About Us</h6>
+              <h6 class="title">Dynamics 2022</h6>
               <p>
-                Lorem ipsum dolor sit amet, ligtlus, quo at erat, posuere
-                pimperdcenas varius lames libersemper lectunisl ut. Mattis
-                eget, risus pellen
+              Celebrating Youth, Impact, & Change through Social Movement and Competitions
               </p>
               <ul class="social-icons">
                 <li>
