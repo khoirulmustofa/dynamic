@@ -957,7 +957,7 @@
   <!-- Galery -->
   <section class="post-section padding-top padding-bottom" id="galery">
     <div class="section-header-2">
-      <h2 class="title">Galery</h2>
+      <h2 class="title">Gallery</h2>
     </div>
     <div class="container">
       <div class="m--15">
