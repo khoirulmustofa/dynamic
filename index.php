@@ -955,7 +955,7 @@
   <!-- ========Affiliate Section Ends Here======== -->
 
   <!-- Galery -->
-  <section class="post-section padding-top padding-bottom" id="galery">
+  <section class="post-section padding-top padding-bottom" id="gallery">
     <div class="section-header-2">
       <h2 class="title">Gallery</h2>
     </div>
@@ -970,12 +970,12 @@
             </div>
             <div class="swiper-slide">
               <div class="post-thumb" style="padding: 10px;">
-                <img src="assets/images/blog/blog01.jpg" alt="blog">
+                <img src="assets/images/blog/blog02.jpg" alt="blog">
               </div>
             </div>
             <div class="swiper-slide">
               <div class="post-thumb" style="padding: 10px;">
-                <img src="assets/images/blog/blog01.jpg" alt="blog">
+                <img src="assets/images/blog/blog03.jpg" alt="blog">
               </div>
             </div>
             <div class="swiper-slide">
