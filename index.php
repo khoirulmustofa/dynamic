@@ -128,7 +128,7 @@
             </li>
             <li class="d-none d-lg-block center-logo">
               <div class="logo">
-                <a href="index-2.html">
+                <a href="#home">
                   <img src="assets/images/logo_77x134.png" alt="logo" />
                 </a>
               </div>
