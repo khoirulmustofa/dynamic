@@ -134,7 +134,7 @@
               </div>
             </li>
             <li>
-              <a href="#">Merchandise</a>
+              <a href="https://dyzar-2022.sirclo.me/" target="blank">Merchandise</a>
             </li>
             <li>
               <a href="#gallery">Gallery</a>
@@ -237,6 +237,7 @@
     </div>
   </section>
   <!-- ========How Section Ends Here======== -->
+
 
   <!-- ========Games Section Starts Here======== -->
   <section id="NLC" class="games-section padding-bottom padding-top bg-overlay bg_img" data-background="assets/images/games/game-bg.jpg">
