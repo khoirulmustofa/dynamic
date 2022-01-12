@@ -60,7 +60,9 @@
 </head>
 
 <body>
-
+    <audio class="my_audio" controls preload="none" hidden>
+        <source src="comingsoon/music/dynamite.mp3" type="audio/mpeg">
+    </audio>
     <!-- Header -->
     <header id="header" class="header">
         <div class="container">
@@ -71,7 +73,7 @@
                             <span id="clock"></span>
                             <!-- end of countdown -->
 
-                            <a href="index.html"><img class="img-fluid" src="comingsoon/images/logo_400x100.png" alt="alternative"></a>
+                            <a href="#"><img class="img-fluid" src="comingsoon/images/logo_400x100.png" alt="alternative"></a>
                             <h1>Coming Soon</h1>
                             <p class="p-large">Celebrating Youth, Impact, & Change through Social Movement and Competitions
                             </p>
@@ -92,13 +94,6 @@
                     </a>
                 </span>
 
-                <script>
-                    var music = new Audio();
-                    music.src = "comingsoon/music/dynamite.mp3";
-                    music.loop = true;
-                    music.play();
-                </script>
-
                 <span class="fa-stack">
                     <a href="https://instagram.com/nfbs_dynamics" target="_blank">
                         <i class="fas fa-circle fa-stack-2x"></i>
@@ -118,7 +113,7 @@
     <script src="comingsoon/js/jquery.countdown.min.js"></script>
     <!-- The Final Countdown plugin for jQuery -->
     <script src="comingsoon/js/scripts.js"></script>
-    <!-- Custom scripts -->
+    <!-- Custom scripts -->    
 </body>
 
 </html>
