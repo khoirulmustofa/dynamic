@@ -282,11 +282,7 @@
               <a href="#"><img src="assets/images/games/games03.jpg" alt="game" /></a>
             </div>
             <div class="games-content">
-<<<<<<< HEAD
-              <h5 class="title"><a href="#0">Vlog</a></h5>
-=======
-              <h5 class="title"><a href="#">Combo car racing</a></h5>
->>>>>>> main
+            <h5 class="title"><a href="#">Vlog</a></h5>
               <p>
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
                 nibh pharetra orem bibendum elit mauris odio
@@ -301,11 +297,9 @@
               <a href="#"><img src="assets/images/games/games04.jpg" alt="game" /></a>
             </div>
             <div class="games-content">
-<<<<<<< HEAD
+
               <h5 class="title"><a href="#0">Poetry</a></h5>
-=======
-              <h5 class="title"><a href="#">hit and kills</a></h5>
->>>>>>> main
+
               <p>
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
                 nibh pharetra orem bibendum elit mauris odio
@@ -320,11 +314,10 @@
               <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
             </div>
             <div class="games-content">
-<<<<<<< HEAD
+
               <h5 class="title"><a href="#0">Poster</a></h5>
-=======
-              <h5 class="title"><a href="#">ready for jump</a></h5>
->>>>>>> main
+
+  
               <p>
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
                 nibh pharetra orem bibendum elit mauris odio
@@ -339,7 +332,6 @@
               <a href="#"><img src="assets/images/games/games06.jpg" alt="game" /></a>
             </div>
             <div class="games-content">
-<<<<<<< HEAD
               <h5 class="title"><a href="#0">Short Story</a></h5>
               <p>
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
@@ -551,10 +543,7 @@
             </div>
             <div class="games-content">
               <h5 class="title"><a href="#0">Story Telling</a></h5>
-=======
-              <h5 class="title"><a href="#">Human Hunter</a></h5>
->>>>>>> main
-              <p>
+           <p>
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
                 nibh pharetra orem bibendum elit mauris odio
               </p>
@@ -579,20 +568,13 @@
           <div class="col-sm-10 col-md-6 col-lg-4">
             <div class="gamer-item section-bg-2">
               <div class="gamer-thumb">
-<<<<<<< HEAD
-                <a href="#0">
-=======
-                <a href="#">
->>>>>>> main
+
+
                   <img src="assets/images/gamers/gamers01.png" alt="gamers" />
                 </a>
               </div>
               <div class="gamer-content">
-<<<<<<< HEAD
-                <h5 class="title"><a href="#0">Abu Raihan Rafuj</a></h5>
-=======
-                <h5 class="title"><a href="#">Abu Raihan Rafuj</a></h5>
->>>>>>> main
+
                 <p>New Gamers</p>
               </div>
             </div>
@@ -600,20 +582,15 @@
           <div class="col-sm-10 col-md-6 col-lg-4">
             <div class="gamer-item section-bg-2">
               <div class="gamer-thumb">
-<<<<<<< HEAD
+
                 <a href="#0">
-=======
-                <a href="#">
->>>>>>> main
+
                   <img src="assets/images/gamers/gamers02.png" alt="gamers" />
                 </a>
               </div>
               <div class="gamer-content">
-<<<<<<< HEAD
-                <h5 class="title"><a href="#0">Hera Rahman</a></h5>
-=======
-                <h5 class="title"><a href="#">Hera Rahman</a></h5>
->>>>>>> main
+               <h5 class="title"><a href="#0">Hera Rahman</a></h5>
+
                 <p>New Gamers</p>
               </div>
             </div>
@@ -621,20 +598,12 @@
           <div class="col-sm-10 col-md-6 col-lg-4">
             <div class="gamer-item section-bg-2">
               <div class="gamer-thumb">
-<<<<<<< HEAD
-                <a href="#0">
-=======
-                <a href="#">
->>>>>>> main
+
                   <img src="assets/images/gamers/gamers03.png" alt="gamers" />
                 </a>
               </div>
               <div class="gamer-content">
-<<<<<<< HEAD
-                <h5 class="title"><a href="#0">Panna Rahman</a></h5>
-=======
-                <h5 class="title"><a href="#">Panna Rahman</a></h5>
->>>>>>> main
+
                 <p>New Gamers</p>
               </div>
             </div>
