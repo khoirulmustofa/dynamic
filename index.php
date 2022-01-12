@@ -76,7 +76,7 @@
       </h6>
     </div>
   </div>
-  <a href="#0" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+  <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
   <div class="overlay"></div>
   <!-- ========Header Section Starts Here======== -->
   <header class="header-one">
@@ -249,90 +249,90 @@
         <div class="col-sm-10 col-md-6 col-xl-4">
           <div class="games-item">
             <div class="games-thumb">
-              <a href="#0"><img src="assets/images/games/games01.jpg" alt="game" /></a>
+              <a href="#"><img src="assets/images/games/games01.jpg" alt="game" /></a>
             </div>
             <div class="games-content">
-              <h5 class="title"><a href="#0">Futsal</a></h5>
+              <h5 class="title"><a href="#">Futsal</a></h5>
               <p>
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
                 nibh pharetra orem bibendum elit mauris odio
               </p>
-              <a href="#0" class="custom-button active">Register</a>
+              <a href="#" class="custom-button active">Register</a>
             </div>
           </div>
         </div>
         <div class="col-sm-10 col-md-6 col-xl-4">
           <div class="games-item">
             <div class="games-thumb">
-              <a href="#0"><img src="assets/images/games/games02.jpg" alt="game" /></a>
+              <a href="#"><img src="assets/images/games/games02.jpg" alt="game" /></a>
             </div>
             <div class="games-content">
-              <h5 class="title"><a href="#0">Basketball</a></h5>
+              <h5 class="title"><a href="#">Basketball</a></h5>
               <p>
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
                 nibh pharetra orem bibendum elit mauris odio
               </p>
-              <a href="#0" class="custom-button active">Register</a>
+              <a href="#" class="custom-button active">Register</a>
             </div>
           </div>
         </div>
         <div class="col-sm-10 col-md-6 col-xl-4">
           <div class="games-item">
             <div class="games-thumb">
-              <a href="#0"><img src="assets/images/games/games03.jpg" alt="game" /></a>
+              <a href="#"><img src="assets/images/games/games03.jpg" alt="game" /></a>
             </div>
             <div class="games-content">
-              <h5 class="title"><a href="#0">Combo car racing</a></h5>
+              <h5 class="title"><a href="#">Combo car racing</a></h5>
               <p>
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
                 nibh pharetra orem bibendum elit mauris odio
               </p>
-              <a href="#0" class="custom-button active">Register</a>
+              <a href="#" class="custom-button active">Register</a>
             </div>
           </div>
         </div>
         <div class="col-sm-10 col-md-6 col-xl-4">
           <div class="games-item">
             <div class="games-thumb">
-              <a href="#0"><img src="assets/images/games/games04.jpg" alt="game" /></a>
+              <a href="#"><img src="assets/images/games/games04.jpg" alt="game" /></a>
             </div>
             <div class="games-content">
-              <h5 class="title"><a href="#0">hit and kills</a></h5>
+              <h5 class="title"><a href="#">hit and kills</a></h5>
               <p>
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
                 nibh pharetra orem bibendum elit mauris odio
               </p>
-              <a href="#0" class="custom-button active">Register</a>
+              <a href="#" class="custom-button active">Register</a>
             </div>
           </div>
         </div>
         <div class="col-sm-10 col-md-6 col-xl-4">
           <div class="games-item">
             <div class="games-thumb">
-              <a href="#0"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+              <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
             </div>
             <div class="games-content">
-              <h5 class="title"><a href="#0">ready for jump</a></h5>
+              <h5 class="title"><a href="#">ready for jump</a></h5>
               <p>
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
                 nibh pharetra orem bibendum elit mauris odio
               </p>
-              <a href="#0" class="custom-button active">Register</a>
+              <a href="#" class="custom-button active">Register</a>
             </div>
           </div>
         </div>
         <div class="col-sm-10 col-md-6 col-xl-4">
           <div class="games-item">
             <div class="games-thumb">
-              <a href="#0"><img src="assets/images/games/games06.jpg" alt="game" /></a>
+              <a href="#"><img src="assets/images/games/games06.jpg" alt="game" /></a>
             </div>
             <div class="games-content">
-              <h5 class="title"><a href="#0">Human Hunter</a></h5>
+              <h5 class="title"><a href="#">Human Hunter</a></h5>
               <p>
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
                 nibh pharetra orem bibendum elit mauris odio
               </p>
-              <a href="#0" class="custom-button active">Register</a>
+              <a href="#" class="custom-button active">Register</a>
             </div>
           </div>
         </div>
@@ -345,52 +345,52 @@
   <!-- ========Gamers Section Starts Here======== -->
   <section class="gamers-section padding-top padding-bottom">
     <div class="container">
-    <div class="container">
-      <div class="section-header-2">
-      <h2 class="title">Our Speakers</h2>
-    </div>
-      <div class="row justify-content-center mb-30-none">
-        <div class="col-sm-10 col-md-6 col-lg-4">
-          <div class="gamer-item section-bg-2">
-            <div class="gamer-thumb">
-              <a href="#0">
-                <img src="assets/images/gamers/gamers01.png" alt="gamers" />
-              </a>
-            </div>
-            <div class="gamer-content">
-              <h5 class="title"><a href="#0">Abu Raihan Rafuj</a></h5>
-              <p>New Gamers</p>
+      <div class="container">
+        <div class="section-header-2">
+          <h2 class="title">Our Speakers</h2>
+        </div>
+        <div class="row justify-content-center mb-30-none">
+          <div class="col-sm-10 col-md-6 col-lg-4">
+            <div class="gamer-item section-bg-2">
+              <div class="gamer-thumb">
+                <a href="#">
+                  <img src="assets/images/gamers/gamers01.png" alt="gamers" />
+                </a>
+              </div>
+              <div class="gamer-content">
+                <h5 class="title"><a href="#">Abu Raihan Rafuj</a></h5>
+                <p>New Gamers</p>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-lg-4">
-          <div class="gamer-item section-bg-2">
-            <div class="gamer-thumb">
-              <a href="#0">
-                <img src="assets/images/gamers/gamers02.png" alt="gamers" />
-              </a>
-            </div>
-            <div class="gamer-content">
-              <h5 class="title"><a href="#0">Hera Rahman</a></h5>
-              <p>New Gamers</p>
+          <div class="col-sm-10 col-md-6 col-lg-4">
+            <div class="gamer-item section-bg-2">
+              <div class="gamer-thumb">
+                <a href="#">
+                  <img src="assets/images/gamers/gamers02.png" alt="gamers" />
+                </a>
+              </div>
+              <div class="gamer-content">
+                <h5 class="title"><a href="#">Hera Rahman</a></h5>
+                <p>New Gamers</p>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-lg-4">
-          <div class="gamer-item section-bg-2">
-            <div class="gamer-thumb">
-              <a href="#0">
-                <img src="assets/images/gamers/gamers03.png" alt="gamers" />
-              </a>
-            </div>
-            <div class="gamer-content">
-              <h5 class="title"><a href="#0">Panna Rahman</a></h5>
-              <p>New Gamers</p>
+          <div class="col-sm-10 col-md-6 col-lg-4">
+            <div class="gamer-item section-bg-2">
+              <div class="gamer-thumb">
+                <a href="#">
+                  <img src="assets/images/gamers/gamers03.png" alt="gamers" />
+                </a>
+              </div>
+              <div class="gamer-content">
+                <h5 class="title"><a href="#">Panna Rahman</a></h5>
+                <p>New Gamers</p>
+              </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
   </section>
   <!-- ========Gamers Section Ends Here======== -->
 
@@ -399,135 +399,105 @@
     <div class="container">
       <!-- <div class="padding-top padding-bottom section-bg"> -->
       <div class="section-header">
-        <h2 class="title">lend and borrow</h2>
+        <h2 class="title">Merchandise Dynamics 2022</h2>
       </div>
       <div class="lends-table-wrapper">
         <table class="lend-table">
-          <thead class="table-header">
-            <tr>
-              <th>User</th>
-              <th>Bet id</th>
-              <th>bet amount</th>
-              <th>chance</th>
-              <th>game</th>
-              <th>profit</th>
-            </tr>
-          </thead>
           <tbody class="table-body">
             <tr>
-              <td data-input="user">
-                <div class="user">
-                  <div class="user-thumb">
-                    <a href="#0">
-                      <img src="assets/images/table/01.png" alt="user" />
-                    </a>
-                  </div>
-                  <div class="user-content">
-                    <a href="#0">Abir Khan</a>
-                  </div>
-                </div>
+              <td>
+                <a href="#">
+                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                </a>
               </td>
-              <td data-input="bet id">
-                <div class="info bet">BM 0213589686</div>
+              <td>
+                <a href="#">
+                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                </a>
               </td>
-              <td data-input="bet amount">
-                <div class="info bet-amount">$ 60,5896</div>
+              <td>
+                <a href="#">
+                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                </a>
               </td>
-              <td data-input="win chance">
-                <div class="info win-chance">60%</div>
+              <td>
+                <a href="#">
+                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                </a>
               </td>
-              <td data-input="game">
-                <div class="info game-name">Coc</div>
+              <td>
+                <a href="#">
+                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                </a>
               </td>
-              <td data-input="profit">
-                <div class="info profit">$ 90,8012</div>
-              </td>
-            </tr>
-            <tr>
-              <td data-input="user">
-                <div class="user">
-                  <div class="user-thumb">
-                    <a href="#0">
-                      <img src="assets/images/table/02.png" alt="user" />
-                    </a>
-                  </div>
-                  <div class="user-content">
-                    <a href="#0">Rex Rifat</a>
-                  </div>
-                </div>
-              </td>
-              <td data-input="bet id">
-                <div class="info bet">BM 0213589686</div>
-              </td>
-              <td data-input="bet amount">
-                <div class="info bet-amount">$ 60,5896</div>
-              </td>
-              <td data-input="win chance">
-                <div class="info win-chance">75%</div>
-              </td>
-              <td data-input="game">
-                <div class="info game-name">Kakcha</div>
-              </td>
-              <td data-input="profit">
-                <div class="info profit">$ 90,8012</div>
+              <td>
+                <a href="#">
+                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                </a>
               </td>
             </tr>
             <tr>
-              <td data-input="user">
-                <div class="user">
-                  <div class="user-thumb">
-                    <a href="#0">
-                      <img src="assets/images/table/03.png" alt="user" />
-                    </a>
-                  </div>
-                  <div class="user-content">
-                    <a href="#0">Rudra Roy</a>
-                  </div>
-                </div>
+              <td>
+                <a href="#">
+                  <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
+                </a>
               </td>
-              <td data-input="bet id">
-                <div class="info bet">BM 0213589686</div>
+              <td>
+                <a href="#">
+                  <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
+                </a>
               </td>
-              <td data-input="bet amount">
-                <div class="info bet-amount">$ 60,5896</div>
+              <td>
+                <a href="#">
+                  <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
+                </a>
               </td>
-              <td data-input="win chance">
-                <div class="info win-chance">90%</div>
+              <td>
+                <a href="#">
+                  <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
+                </a>
               </td>
-              <td data-input="game">
-                <div class="info game-name">Ludu</div>
+              <td>
+                <a href="#">
+                  <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
+                </a>
               </td>
-              <td data-input="profit">
-                <div class="info profit">$ 90,8012</div>
+              <td>
+                <a href="#">
+                  <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
+                </a>
               </td>
             </tr>
             <tr>
-              <td data-input="user">
-                <div class="user">
-                  <div class="user-thumb">
-                    <a href="#0">
-                      <img src="assets/images/table/04.png" alt="user" />
-                    </a>
-                  </div>
-                  <div class="user-content">
-                    <a href="#0">DJ Hasan</a>
-                  </div>
-                </div>
+              <td>
+                <a href="#">
+                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                </a>
               </td>
-              <td data-input="bet id">
-                <div class="info bet">BM 0213589686</div>
+              <td>
+                <a href="#">
+                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                </a>
               </td>
-              <td data-input="bet amount">
-                <div class="info bet-amount">$ 60,5896</div>
+              <td>
+                <a href="#">
+                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                </a>
               </td>
-              <td data-input="win chance">
-                <div class="info win-chance">80%</div>
+              <td>
+                <a href="#">
+                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                </a>
               </td>
-              <td data-input="game">
-                <div class="info game-name">Pakiza</div>
+              <td>
+                <a href="#">
+                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                </a>
               </td>
-              <td data-input="profit">
-                <div class="info profit">$ 90,8012</div>
+              <td>
+                <a href="#">
+                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                </a>
               </td>
             </tr>
           </tbody>
@@ -602,7 +572,7 @@
               <img src="assets/images/winner/winner01.jpg" alt="winner" />
             </div>
             <div class="winner-content">
-              <h6 class="title"><a href="#0">Hera Rahman</a></h6>
+              <h6 class="title"><a href="#">Hera Rahman</a></h6>
               <span class="info">02 December 2020</span>
               <span class="bet-id">BET ID : MN 2356 8962 563</span>
             </div>
@@ -614,7 +584,7 @@
               <img src="assets/images/winner/winner02.jpg" alt="winner" />
             </div>
             <div class="winner-content">
-              <h6 class="title"><a href="#0">Abu Raihan Rafuj</a></h6>
+              <h6 class="title"><a href="#">Abu Raihan Rafuj</a></h6>
               <span class="info">02 December 2020</span>
               <span class="bet-id">BET ID : MN 2356 8962 517</span>
             </div>
@@ -626,7 +596,7 @@
               <img src="assets/images/winner/winner03.jpg" alt="winner" />
             </div>
             <div class="winner-content">
-              <h6 class="title"><a href="#0">Ratul Khan</a></h6>
+              <h6 class="title"><a href="#">Ratul Khan</a></h6>
               <span class="info">02 December 2020</span>
               <span class="bet-id">BET ID : MN 2356 8962 515</span>
             </div>
@@ -1019,7 +989,7 @@
               <div class="feature-item">
                 <div class="feature-inner">
                   <div class="post-thumb">
-                    <a href="#0"><img src="assets/images/ut.jpg" alt="blog"></a>
+                    <a href="#"><img src="assets/images/ut.jpg" alt="blog"></a>
                   </div>
                 </div>
               </div>
@@ -1028,7 +998,7 @@
               <div class="feature-item">
                 <div class="feature-inner">
                   <div class="post-thumb">
-                    <a href="#0"><img src="assets/images/ut.jpg" alt="blog"></a>
+                    <a href="#"><img src="assets/images/ut.jpg" alt="blog"></a>
                   </div>
                 </div>
               </div>
@@ -1090,7 +1060,7 @@
               <h6 class="title">Live chat</h6>
               <ul>
                 <li>
-                  <a href="#0">Chate with 24/7</a>
+                  <a href="#">Chate with 24/7</a>
                 </li>
                 <li>
                   <a href="Tel:8388383">0000 - 1111 - 2222</a>
@@ -1111,14 +1081,14 @@
             <div class="footer-widget widget-about">
               <h6 class="title">Dynamics 2022</h6>
               <p>
-              Celebrating Youth, Impact, & Change through Social Movement and Competitions
+                Celebrating Youth, Impact, & Change through Social Movement and Competitions
               </p>
               <ul class="social-icons">
                 <li>
                   <a href="https://youtube.com/NurulFikriBoardingSchoolBogor" target="_blank"><i class="fab fa-youtube"></i></a>
                 </li>
                 <li>
-                  <a href="https://instagram.com/nfbs_dynamics" target="blank" ><i class="fab fa-instagram"></i></a>
+                  <a href="https://instagram.com/nfbs_dynamics" target="blank"><i class="fab fa-instagram"></i></a>
                 </li>
               </ul>
             </div>
@@ -1132,7 +1102,7 @@
               <h6 class="title">Top Games</h6>
               <ul>
                 <li>
-                  <a href="#0">
+                  <a href="#">
                     <div class="thumb">
                       <img src="assets/images/footer/02.png" alt="footer" />
                     </div>
@@ -1149,7 +1119,7 @@
                   </a>
                 </li>
                 <li>
-                  <a href="#0">
+                  <a href="#">
                     <div class="thumb">
                       <img src="assets/images/footer/01.png" alt="footer" />
                     </div>
@@ -1166,7 +1136,7 @@
                   </a>
                 </li>
                 <li>
-                  <a href="#0">
+                  <a href="#">
                     <div class="thumb">
                       <img src="assets/images/footer/03.png" alt="footer" />
                     </div>

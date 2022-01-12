@@ -119,7 +119,7 @@
         audio.src = "comingsoon/music/dynamite.mp3";
         audio.loop = true;
         document.body.addEventListener("mousemove", function() {
-            audio.play()
+            audio.play();            
         });
         document.body.addEventListener("load", function() {
             audio.play()
