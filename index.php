@@ -406,96 +406,96 @@
           <tbody class="table-body">
             <tr>
               <td>
-                <a href="https://dyzar-2022.sirclo.me">
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="https://dyzar-2022.sirclo.me">
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="https://dyzar-2022.sirclo.me">
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="https://dyzar-2022.sirclo.me">
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="https://dyzar-2022.sirclo.me">
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="https://dyzar-2022.sirclo.me">
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
             </tr>
             <tr>
               <td>
-                <a href="https://dyzar-2022.sirclo.me">
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
                   <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="https://dyzar-2022.sirclo.me">
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
                   <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="https://dyzar-2022.sirclo.me">
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
                   <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="https://dyzar-2022.sirclo.me">
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
                   <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="https://dyzar-2022.sirclo.me">
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
                   <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="https://dyzar-2022.sirclo.me">
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
                   <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
                 </a>
               </td>
             </tr>
             <tr>
               <td>
-                <a href="https://dyzar-2022.sirclo.me">
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="https://dyzar-2022.sirclo.me">
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="https://dyzar-2022.sirclo.me">
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="https://dyzar-2022.sirclo.me">
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="https://dyzar-2022.sirclo.me">
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="https://dyzar-2022.sirclo.me">
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
