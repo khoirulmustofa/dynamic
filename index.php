@@ -617,9 +617,11 @@
   <section class="lends-section" id="merchandise">
     <div class="container">
       <!-- <div class="padding-top padding-bottom section-bg"> -->
-      <div class="section-header">
-        <h2 class="title">Merchandise Dynamics 2022</h2>
-      </div>
+      
+      <div class="container">
+        <div class="section-header-2">
+          <h2 class="title">Dynamics Merchandise</h2>
+        </div>
       <div class="lends-table-wrapper">
         <table class="lend-table">
           <tbody class="table-body">
