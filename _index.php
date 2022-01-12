@@ -57,12 +57,11 @@
 
     <!-- Favicon  -->
     <link rel="icon" href="comingsoon/images/favicon.png">
+
+
 </head>
 
-<body>
-    <audio class="my_audio" controls preload="none" hidden>
-        <source src="comingsoon/music/dynamite.mp3" type="audio/mpeg">
-    </audio>
+<body>    
     <!-- Header -->
     <header id="header" class="header">
         <div class="container">
@@ -113,14 +112,22 @@
     <script src="comingsoon/js/jquery.countdown.min.js"></script>
     <!-- The Final Countdown plugin for jQuery -->
     <script src="comingsoon/js/scripts.js"></script>
-    <!-- Custom scripts -->    
-    <script>
-        var music = new Audio();
-        music.src = "comingsoon/music/dynamite.mp3";
-        music.loop = true;
-        music.play();
+    <!-- Custom scripts -->
+    <script type="text/javascript">
+        var audio = document.createElement("AUDIO")
+        document.body.appendChild(audio);
+        audio.src = "comingsoon/music/dynamite.mp3";
+        audio.loop = true;
+        document.body.addEventListener("mousemove", function() {
+            audio.play()
+        });
+        document.body.addEventListener("load", function() {
+            audio.play()
+        });
+        document.body.addEventListener("click", function() {
+            audio.play()
+        });
     </script>
-
 </body>
 
 </html>
