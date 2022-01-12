@@ -92,8 +92,12 @@
                     </a>
                 </span>
 
-                <audio hidden autoplay loop src="comingsoon/music/dynamite.mp3" type="audio/mp3">
-                </audio>
+                <script>
+                    var music = new Audio();
+                    music.src = "comingsoon/music/dynamite.mp3";
+                    music.loop = true;
+                    music.play();
+                </script>
 
                 <span class="fa-stack">
                     <a href="https://instagram.com/nfbs_dynamics" target="_blank">
