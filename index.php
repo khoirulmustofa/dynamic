@@ -123,9 +123,9 @@
                 </li>
                 <li>
                   <a href="#NLC">Next Leader Competitions</a>
-                </li>
               </ul>
             </li>
+
             <li class="d-none d-lg-block center-logo">
               <div class="logo">
                 <a href="#home">
@@ -282,7 +282,7 @@
               <a href="#0"><img src="assets/images/games/games03.jpg" alt="game" /></a>
             </div>
             <div class="games-content">
-              <h5 class="title"><a href="#0">Combo car racing</a></h5>
+              <h5 class="title"><a href="#0">Vlog</a></h5>
               <p>
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
                 nibh pharetra orem bibendum elit mauris odio
@@ -297,7 +297,7 @@
               <a href="#0"><img src="assets/images/games/games04.jpg" alt="game" /></a>
             </div>
             <div class="games-content">
-              <h5 class="title"><a href="#0">hit and kills</a></h5>
+              <h5 class="title"><a href="#0">Poetry</a></h5>
               <p>
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
                 nibh pharetra orem bibendum elit mauris odio
@@ -312,7 +312,7 @@
               <a href="#0"><img src="assets/images/games/games05.jpg" alt="game" /></a>
             </div>
             <div class="games-content">
-              <h5 class="title"><a href="#0">ready for jump</a></h5>
+              <h5 class="title"><a href="#0">Poster</a></h5>
               <p>
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
                 nibh pharetra orem bibendum elit mauris odio
@@ -327,7 +327,217 @@
               <a href="#0"><img src="assets/images/games/games06.jpg" alt="game" /></a>
             </div>
             <div class="games-content">
-              <h5 class="title"><a href="#0">Human Hunter</a></h5>
+              <h5 class="title"><a href="#0">Short Story</a></h5>
+              <p>
+                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
+                nibh pharetra orem bibendum elit mauris odio
+              </p>
+              <a href="#0" class="custom-button active">Register</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-10 col-md-6 col-xl-4">
+          <div class="games-item">
+            <div class="games-thumb">
+              <a href="#0"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+            </div>
+            <div class="games-content">
+              <h5 class="title"><a href="#0">MHQ</a></h5>
+              <p>
+                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
+                nibh pharetra orem bibendum elit mauris odio
+              </p>
+              <a href="#0" class="custom-button active">Register</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-10 col-md-6 col-xl-4">
+          <div class="games-item">
+            <div class="games-thumb">
+              <a href="#0"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+            </div>
+            <div class="games-content">
+              <h5 class="title"><a href="#0">Gen-Z Da'i</a></h5>
+              <p>
+                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
+                nibh pharetra orem bibendum elit mauris odio
+              </p>
+              <a href="#0" class="custom-button active">Register</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-10 col-md-6 col-xl-4">
+          <div class="games-item">
+            <div class="games-thumb">
+              <a href="#0"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+            </div>
+            <div class="games-content">
+              <h5 class="title"><a href="#0">Science Project</a></h5>
+              <p>
+                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
+                nibh pharetra orem bibendum elit mauris odio
+              </p>
+              <a href="#0" class="custom-button active">Register</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-10 col-md-6 col-xl-4">
+          <div class="games-item">
+            <div class="games-thumb">
+              <a href="#0"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+            </div>
+            <div class="games-content">
+              <h5 class="title"><a href="#0">Cerdas Cermat</a></h5>
+              <p>
+                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
+                nibh pharetra orem bibendum elit mauris odio
+              </p>
+              <a href="#0" class="custom-button active">Register</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-10 col-md-6 col-xl-4">
+          <div class="games-item">
+            <div class="games-thumb">
+              <a href="#0"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+            </div>
+            <div class="games-content">
+              <h5 class="title"><a href="#0">Morse</a></h5>
+              <p>
+                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
+                nibh pharetra orem bibendum elit mauris odio
+              </p>
+              <a href="#0" class="custom-button active">Register</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-10 col-md-6 col-xl-4">
+          <div class="games-item">
+            <div class="games-thumb">
+              <a href="#0"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+            </div>
+            <div class="games-content">
+              <h5 class="title"><a href="#0">Semaphore</a></h5>
+              <p>
+                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
+                nibh pharetra orem bibendum elit mauris odio
+              </p>
+              <a href="#0" class="custom-button active">Register</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-10 col-md-6 col-xl-4">
+          <div class="games-item">
+            <div class="games-thumb">
+              <a href="#0"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+            </div>
+            <div class="games-content">
+              <h5 class="title"><a href="#0">PUPK</a></h5>
+              <p>
+                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
+                nibh pharetra orem bibendum elit mauris odio
+              </p>
+              <a href="#0" class="custom-button active">Register</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-10 col-md-6 col-xl-4">
+          <div class="games-item">
+            <div class="games-thumb">
+              <a href="#0"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+            </div>
+            <div class="games-content">
+              <h5 class="title"><a href="#0">PPGD</a></h5>
+              <p>
+                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
+                nibh pharetra orem bibendum elit mauris odio
+              </p>
+              <a href="#0" class="custom-button active">Register</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-10 col-md-6 col-xl-4">
+          <div class="games-item">
+            <div class="games-thumb">
+              <a href="#0"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+            </div>
+            <div class="games-content">
+              <h5 class="title"><a href="#0">Pioneering</a></h5>
+              <p>
+                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
+                nibh pharetra orem bibendum elit mauris odio
+              </p>
+              <a href="#0" class="custom-button active">Register</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-10 col-md-6 col-xl-4">
+          <div class="games-item">
+            <div class="games-thumb">
+              <a href="#0"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+            </div>
+            <div class="games-content">
+              <h5 class="title"><a href="#0">Kreasi Yel-Yel</a></h5>
+              <p>
+                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
+                nibh pharetra orem bibendum elit mauris odio
+              </p>
+              <a href="#0" class="custom-button active">Register</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-10 col-md-6 col-xl-4">
+          <div class="games-item">
+            <div class="games-thumb">
+              <a href="#0"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+            </div>
+            <div class="games-content">
+              <h5 class="title"><a href="#0">Archery</a></h5>
+              <p>
+                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
+                nibh pharetra orem bibendum elit mauris odio
+              </p>
+              <a href="#0" class="custom-button active">Register</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-10 col-md-6 col-xl-4">
+          <div class="games-item">
+            <div class="games-thumb">
+              <a href="#0"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+            </div>
+            <div class="games-content">
+              <h5 class="title"><a href="#0">Tradional Games</a></h5>
+              <p>
+                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
+                nibh pharetra orem bibendum elit mauris odio
+              </p>
+              <a href="#0" class="custom-button active">Register</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-10 col-md-6 col-xl-4">
+          <div class="games-item">
+            <div class="games-thumb">
+              <a href="#0"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+            </div>
+            <div class="games-content">
+              <h5 class="title"><a href="#0">Speech</a></h5>
+              <p>
+                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
+                nibh pharetra orem bibendum elit mauris odio
+              </p>
+              <a href="#0" class="custom-button active">Register</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-10 col-md-6 col-xl-4">
+          <div class="games-item">
+            <div class="games-thumb">
+              <a href="#0"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+            </div>
+            <div class="games-content">
+              <h5 class="title"><a href="#0">Story Telling</a></h5>
               <p>
                 Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
                 nibh pharetra orem bibendum elit mauris odio
@@ -345,52 +555,52 @@
   <!-- ========Gamers Section Starts Here======== -->
   <section class="gamers-section padding-top padding-bottom">
     <div class="container">
-    <div class="container">
-      <div class="section-header-2">
-      <h2 class="title">Our Speakers</h2>
-    </div>
-      <div class="row justify-content-center mb-30-none">
-        <div class="col-sm-10 col-md-6 col-lg-4">
-          <div class="gamer-item section-bg-2">
-            <div class="gamer-thumb">
-              <a href="#0">
-                <img src="assets/images/gamers/gamers01.png" alt="gamers" />
-              </a>
-            </div>
-            <div class="gamer-content">
-              <h5 class="title"><a href="#0">Abu Raihan Rafuj</a></h5>
-              <p>New Gamers</p>
+      <div class="container">
+        <div class="section-header-2">
+          <h2 class="title">Our Speakers</h2>
+        </div>
+        <div class="row justify-content-center mb-30-none">
+          <div class="col-sm-10 col-md-6 col-lg-4">
+            <div class="gamer-item section-bg-2">
+              <div class="gamer-thumb">
+                <a href="#0">
+                  <img src="assets/images/gamers/gamers01.png" alt="gamers" />
+                </a>
+              </div>
+              <div class="gamer-content">
+                <h5 class="title"><a href="#0">Abu Raihan Rafuj</a></h5>
+                <p>New Gamers</p>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-lg-4">
-          <div class="gamer-item section-bg-2">
-            <div class="gamer-thumb">
-              <a href="#0">
-                <img src="assets/images/gamers/gamers02.png" alt="gamers" />
-              </a>
-            </div>
-            <div class="gamer-content">
-              <h5 class="title"><a href="#0">Hera Rahman</a></h5>
-              <p>New Gamers</p>
+          <div class="col-sm-10 col-md-6 col-lg-4">
+            <div class="gamer-item section-bg-2">
+              <div class="gamer-thumb">
+                <a href="#0">
+                  <img src="assets/images/gamers/gamers02.png" alt="gamers" />
+                </a>
+              </div>
+              <div class="gamer-content">
+                <h5 class="title"><a href="#0">Hera Rahman</a></h5>
+                <p>New Gamers</p>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-lg-4">
-          <div class="gamer-item section-bg-2">
-            <div class="gamer-thumb">
-              <a href="#0">
-                <img src="assets/images/gamers/gamers03.png" alt="gamers" />
-              </a>
-            </div>
-            <div class="gamer-content">
-              <h5 class="title"><a href="#0">Panna Rahman</a></h5>
-              <p>New Gamers</p>
+          <div class="col-sm-10 col-md-6 col-lg-4">
+            <div class="gamer-item section-bg-2">
+              <div class="gamer-thumb">
+                <a href="#0">
+                  <img src="assets/images/gamers/gamers03.png" alt="gamers" />
+                </a>
+              </div>
+              <div class="gamer-content">
+                <h5 class="title"><a href="#0">Panna Rahman</a></h5>
+                <p>New Gamers</p>
+              </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
   </section>
   <!-- ========Gamers Section Ends Here======== -->
 
@@ -1010,7 +1220,7 @@
               <div class="feature-item">
                 <div class="feature-inner">
                   <div class="post-thumb">
-                    <a href="#"><img src="assets/images/ut.jpg" alt="blog"></a>
+                    <a href="#"><img src="assets/images/sponsor/BJB SYARIAH.png" alt="blog"></a>
                   </div>
                 </div>
               </div>
@@ -1019,7 +1229,7 @@
               <div class="feature-item">
                 <div class="feature-inner">
                   <div class="post-thumb">
-                    <a href="#0"><img src="assets/images/ut.jpg" alt="blog"></a>
+                    <a href="#0"><img src="assets/images/sponsor/JAMKINDO.png" alt="blog"></a>
                   </div>
                 </div>
               </div>
@@ -1111,14 +1321,14 @@
             <div class="footer-widget widget-about">
               <h6 class="title">Dynamics 2022</h6>
               <p>
-              Celebrating Youth, Impact, & Change through Social Movement and Competitions
+                Celebrating Youth, Impact, & Change through Social Movement and Competitions
               </p>
               <ul class="social-icons">
                 <li>
                   <a href="https://youtube.com/NurulFikriBoardingSchoolBogor" target="_blank"><i class="fab fa-youtube"></i></a>
                 </li>
                 <li>
-                  <a href="https://instagram.com/nfbs_dynamics" target="blank" ><i class="fab fa-instagram"></i></a>
+                  <a href="https://instagram.com/nfbs_dynamics" target="blank"><i class="fab fa-instagram"></i></a>
                 </li>
               </ul>
             </div>
