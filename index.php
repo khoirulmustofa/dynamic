@@ -134,7 +134,7 @@
               </div>
             </li>
             <li>
-              <a href="https://dyzar-2022.sirclo.me/" target="blank">Merchandise</a>
+              <a href="#merchandise">Merchandise</a>
             </li>
             <li>
               <a href="#gallery">Gallery</a>
@@ -394,8 +394,8 @@
   </section>
   <!-- ========Gamers Section Ends Here======== -->
 
-  <!-- ========Lends Section Starts Here======== -->
-  <section class="lends-section">
+  <!-- Merchandise -->
+  <section class="lends-section" id="merchandise">
     <div class="container">
       <!-- <div class="padding-top padding-bottom section-bg"> -->
       <div class="section-header">
@@ -406,96 +406,96 @@
           <tbody class="table-body">
             <tr>
               <td>
-                <a href="#">
+                <a href="https://dyzar-2022.sirclo.me">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="#">
+                <a href="https://dyzar-2022.sirclo.me">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="#">
+                <a href="https://dyzar-2022.sirclo.me">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="#">
+                <a href="https://dyzar-2022.sirclo.me">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="#">
+                <a href="https://dyzar-2022.sirclo.me">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="#">
+                <a href="https://dyzar-2022.sirclo.me">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
             </tr>
             <tr>
               <td>
-                <a href="#">
+                <a href="https://dyzar-2022.sirclo.me">
                   <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="#">
+                <a href="https://dyzar-2022.sirclo.me">
                   <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="#">
+                <a href="https://dyzar-2022.sirclo.me">
                   <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="#">
+                <a href="https://dyzar-2022.sirclo.me">
                   <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="#">
+                <a href="https://dyzar-2022.sirclo.me">
                   <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="#">
+                <a href="https://dyzar-2022.sirclo.me">
                   <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
                 </a>
               </td>
             </tr>
             <tr>
               <td>
-                <a href="#">
+                <a href="https://dyzar-2022.sirclo.me">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="#">
+                <a href="https://dyzar-2022.sirclo.me">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="#">
+                <a href="https://dyzar-2022.sirclo.me">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="#">
+                <a href="https://dyzar-2022.sirclo.me">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="#">
+                <a href="https://dyzar-2022.sirclo.me">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
               <td>
-                <a href="#">
+                <a href="https://dyzar-2022.sirclo.me">
                   <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                 </a>
               </td>
@@ -506,7 +506,6 @@
       <!-- </div> -->
     </div>
   </section>
-  <!-- ========Lends Section Ends Here======== -->
 
   <!-- ========Achivement Section Starts Here======== -->
   <section class="achivement-section padding-bottom padding-top">
