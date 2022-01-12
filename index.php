@@ -628,96 +628,96 @@
             <tr>
               <td>
                 <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  <img src="#" alt="Gambar" />
                 </a>
               </td>
               <td>
                 <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  <img src="#" alt="Gambar" />
                 </a>
               </td>
               <td>
                 <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  <img src="#" alt="Gambar" />
                 </a>
               </td>
               <td>
                 <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  <img src="#" alt="Gambar" />
                 </a>
               </td>
               <td>
                 <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  <img src="#" alt="Gambar" />
                 </a>
               </td>
               <td>
                 <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                </a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
-                </a>
-              </td>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
-                </a>
-              </td>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
-                </a>
-              </td>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
-                </a>
-              </td>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
-                </a>
-              </td>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
+                  <img src="#" alt="Gambar" />
                 </a>
               </td>
             </tr>
             <tr>
               <td>
                 <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  <img src="#" alt="Gambar" />
                 </a>
               </td>
               <td>
                 <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  <img src="#" alt="Gambar" />
                 </a>
               </td>
               <td>
                 <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  <img src="#" alt="Gambar" />
                 </a>
               </td>
               <td>
                 <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  <img src="#" alt="Gambar" />
                 </a>
               </td>
               <td>
                 <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  <img src="#" alt="Gambar" />
                 </a>
               </td>
               <td>
                 <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  <img src="#" alt="Gambar" />
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                  <img src="#" alt="Gambar" />
+                </a>
+              </td>
+              <td>
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                  <img src="#" alt="Gambar" />
+                </a>
+              </td>
+              <td>
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                  <img src="#" alt="Gambar" />
+                </a>
+              </td>
+              <td>
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                  <img src="#" alt="Gambar" />
+                </a>
+              </td>
+              <td>
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                  <img src="#" alt="Gambar" />
+                </a>
+              </td>
+              <td>
+                <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                  <img src="#" alt="Gambar" />
                 </a>
               </td>
             </tr>
@@ -1209,11 +1209,9 @@
               <div class="feature-item">
                 <div class="feature-inner">
                   <div class="post-thumb">
-<<<<<<< HEAD
+
                     <a href="#0"><img src="assets/images/sponsor/JAMKINDO.png" alt="blog"></a>
-=======
-                    <a href="#"><img src="assets/images/ut.jpg" alt="blog"></a>
->>>>>>> main
+
                   </div>
                 </div>
               </div>
