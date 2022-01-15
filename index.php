@@ -505,7 +505,7 @@
                   <div class="games-content">
                     <h5 class="title"><a href="#">Speech</a></h5>
                     <a href="assets/guidelines/EnglishCompetitionsGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeN5VOC-iKucnB2vuE9OMbwB7IBlmrw7NAwu95RqvHzbD6tFg/viewform" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
