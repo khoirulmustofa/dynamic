@@ -332,24 +332,24 @@
               <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                   <div class="games-thumb">
-                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                    <a href="#"><img src="assets/images/lomba/image_nfsf.jpg" alt="game" /></a>
                   </div>
                   <div class="games-content">
                     <h5 class="title"><a href="#">Speech</a></h5>                                     
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8D0dF2vGvMMhITVZ-9jWJ3tzqKoJ07LpAL-Uq2_ATqWdJzQ/viewform" target="_blank" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
               <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                   <div class="games-thumb">
-                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                    <a href="#"><img src="assets/images/lomba/image_nfsf.jpg" alt="game" /></a>
                   </div>
                   <div class="games-content">
                     <h5 class="title"><a href="#">Story Telling</a></h5>                    
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8D0dF2vGvMMhITVZ-9jWJ3tzqKoJ07LpAL-Uq2_ATqWdJzQ/viewform" target="_blank" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
@@ -363,72 +363,72 @@
               <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                   <div class="games-thumb">
-                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                    <a href="#"><img src="assets/images/lomba/image_nfsf.jpg" alt="game" /></a>
                   </div>
                   <div class="games-content">
                     <h5 class="title"><a href="#">Morse</a></h5>                    
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8D0dF2vGvMMhITVZ-9jWJ3tzqKoJ07LpAL-Uq2_ATqWdJzQ/viewform" target="_blank" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
               <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                   <div class="games-thumb">
-                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                    <a href="#"><img src="assets/images/lomba/image_nfsf.jpg" alt="game" /></a>
                   </div>
                   <div class="games-content">
                     <h5 class="title"><a href="#">Semaphore</a></h5>                    
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8D0dF2vGvMMhITVZ-9jWJ3tzqKoJ07LpAL-Uq2_ATqWdJzQ/viewform" target="_blank" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
               <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                   <div class="games-thumb">
-                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                    <a href="#"><img src="assets/images/lomba/image_nfsf.jpg" alt="game" /></a>
                   </div>
                   <div class="games-content">
                     <h5 class="title"><a href="#">PUPK</a></h5>                    
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8D0dF2vGvMMhITVZ-9jWJ3tzqKoJ07LpAL-Uq2_ATqWdJzQ/viewform" target="_blank" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
               <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                   <div class="games-thumb">
-                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                    <a href="#"><img src="assets/images/lomba/image_nfsf.jpg" alt="game" /></a>
                   </div>
                   <div class="games-content">
                     <h5 class="title"><a href="#">PPGD</a></h5>                    
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8D0dF2vGvMMhITVZ-9jWJ3tzqKoJ07LpAL-Uq2_ATqWdJzQ/viewform" target="_blank" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
               <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                   <div class="games-thumb">
-                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                    <a href="#"><img src="assets/images/lomba/image_nfsf.jpg" alt="game" /></a>
                   </div>
                   <div class="games-content">
                     <h5 class="title"><a href="#">Pioneering</a></h5>                    
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8D0dF2vGvMMhITVZ-9jWJ3tzqKoJ07LpAL-Uq2_ATqWdJzQ/viewform" target="_blank" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
               <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                   <div class="games-thumb">
-                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                    <a href="#"><img src="assets/images/lomba/image_nfsf.jpg" alt="game" /></a>
                   </div>
                   <div class="games-content">
                     <h5 class="title"><a href="#">Kreasi Yel-Yel</a></h5>                    
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8D0dF2vGvMMhITVZ-9jWJ3tzqKoJ07LpAL-Uq2_ATqWdJzQ/viewform" target="_blank" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
@@ -442,24 +442,24 @@
               <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                   <div class="games-thumb">
-                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                    <a href="#"><img src="assets/images/lomba/image_nfsf.jpg" alt="game" /></a>
                   </div>
                   <div class="games-content">
                     <h5 class="title"><a href="#">Archery</a></h5>                    
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8D0dF2vGvMMhITVZ-9jWJ3tzqKoJ07LpAL-Uq2_ATqWdJzQ/viewform" target="_blank" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
               <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                   <div class="games-thumb">
-                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                    <a href="#"><img src="assets/images/lomba/image_nfsf.jpg" alt="game" /></a>
                   </div>
                   <div class="games-content">
                     <h5 class="title"><a href="#">Tradional Games</a></h5>                    
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8D0dF2vGvMMhITVZ-9jWJ3tzqKoJ07LpAL-Uq2_ATqWdJzQ/viewform" target="_blank" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
@@ -471,7 +471,7 @@
                   <div class="games-content">
                     <h5 class="title"><a href="#">Futsal</a></h5>                    
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8D0dF2vGvMMhITVZ-9jWJ3tzqKoJ07LpAL-Uq2_ATqWdJzQ/viewform" target="_blank" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
@@ -483,7 +483,7 @@
                   <div class="games-content">
                     <h5 class="title"><a href="#">Basketball</a></h5>                    
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8D0dF2vGvMMhITVZ-9jWJ3tzqKoJ07LpAL-Uq2_ATqWdJzQ/viewform" target="_blank" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
@@ -497,24 +497,24 @@
               <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                   <div class="games-thumb">
-                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                    <a href="#"><img src="assets/images/lomba/image_nfsf.jpg" alt="game" /></a>
                   </div>
                   <div class="games-content">
                     <h5 class="title"><a href="#">Speech</a></h5>                    
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8D0dF2vGvMMhITVZ-9jWJ3tzqKoJ07LpAL-Uq2_ATqWdJzQ/viewform" target="_blank" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
               <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                   <div class="games-thumb">
-                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                    <a href="#"><img src="assets/images/lomba/image_nfsf.jpg" alt="game" /></a>
                   </div>
                   <div class="games-content">
                     <h5 class="title"><a href="#">Story Telling</a></h5>                    
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8D0dF2vGvMMhITVZ-9jWJ3tzqKoJ07LpAL-Uq2_ATqWdJzQ/viewform" target="_blank" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
@@ -533,7 +533,7 @@
                   <div class="games-content">
                     <h5 class="title"><a href="#">Vlog</a></h5>                    
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8D0dF2vGvMMhITVZ-9jWJ3tzqKoJ07LpAL-Uq2_ATqWdJzQ/viewform" target="_blank" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
@@ -554,7 +554,7 @@
                     <h5 class="title"><a href="#">Poetry</a></h5>
                     
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8D0dF2vGvMMhITVZ-9jWJ3tzqKoJ07LpAL-Uq2_ATqWdJzQ/viewform" target="_blank" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
@@ -568,7 +568,7 @@
               <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                   <div class="games-thumb">
-                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                    <a href="#"><img src="assets/images/lomba/image_nfsf.jpg" alt="game" /></a>
                   </div>
                   <div class="games-content">
 
@@ -576,7 +576,7 @@
 
                     
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8D0dF2vGvMMhITVZ-9jWJ3tzqKoJ07LpAL-Uq2_ATqWdJzQ/viewform" target="_blank" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
@@ -595,7 +595,7 @@
                   <div class="games-content">
                     <h5 class="title"><a href="#">Short Story</a></h5>                    
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8D0dF2vGvMMhITVZ-9jWJ3tzqKoJ07LpAL-Uq2_ATqWdJzQ/viewform" target="_blank" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
@@ -609,12 +609,12 @@
               <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                   <div class="games-thumb">
-                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                    <a href="#"><img src="assets/images/lomba/image_nfsf.jpg" alt="game" /></a>
                   </div>
                   <div class="games-content">
                     <h5 class="title"><a href="#">MHQ</a></h5>                    
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8D0dF2vGvMMhITVZ-9jWJ3tzqKoJ07LpAL-Uq2_ATqWdJzQ/viewform" target="_blank" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
@@ -628,12 +628,12 @@
               <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                   <div class="games-thumb">
-                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                    <a href="#"><img src="assets/images/lomba/image_nfsf.jpg" alt="game" /></a>
                   </div>
                   <div class="games-content">
                     <h5 class="title"><a href="#">Gen-Z Da'i</a></h5>                    
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8D0dF2vGvMMhITVZ-9jWJ3tzqKoJ07LpAL-Uq2_ATqWdJzQ/viewform" target="_blank" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
