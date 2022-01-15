@@ -110,13 +110,13 @@
               <a href="#about" class="pagescroll">About</a>
             </li>
             <li>
-              <a href="#about" class="pagescroll">Timeline</a>
+              <a href="#timeline" class="pagescroll">Timeline</a>
             </li>
             <li class="menu-item-has-children">
               <a href="#">Events</a>
               <ul class="submenu">
                 <li>
-                  <a href="#">Nurul Fikri Leader League</a>
+                  <a href="#NFLL">Nurul Fikri Leader League</a>
                 </li>
                 <li>
                   <a href="#">Youth Charity Concert</a>
@@ -210,352 +210,440 @@
   </section>
   <!-- ========About Section Ends Here======== -->
 
-  <!-- ========How Section Starts Here======== -->
-  <section class="how-section padding-bottom padding-top">
+  <!-- Timeline -->
+  <section class="achivement-section padding-bottom padding-top" id="timeline">
     <div class="container">
-      <div class="section-header">
-        <h2 class="title">How Can You Play</h2>
+      <div class="section-header-2">
+        <h2 class="title">Timeline</h2>
       </div>
-      <div class="how-wrapper">
-        <div class="how-item">
-          <div class="how-thumb">01</div>
-          <h5 class="title">Sign up</h5>
+      <div class="row mb--40">
+        <div class="col-md-7 pr-xl-5 mb-40">
+          <div class="video-wrapper bg_img pos-rel bg-lay" data-background="assets/images/image_time_line.png">
+            <img class="d-md-none" src="assets/images/image_time_line.png" alt="achivements" />
+            <a class="video-button popup" href="#">
+              <i class="flaticon-play"></i>
+            </a>
+          </div>
         </div>
-        <div class="how-item">
-          <div class="how-thumb">02</div>
-          <h5 class="title">choose game</h5>
-        </div>
-        <div class="how-item">
-          <div class="how-thumb">03</div>
-          <h5 class="title">get bounses</h5>
-        </div>
-        <div class="how-item">
-          <div class="how-thumb">04</div>
-          <h5 class="title">withdraw</h5>
+        <div class="col-md-5 mb-40">
+          <div class="row mb-30-none justify-content-center">
+            <div class="col-sm-6 col-md-12">
+              <div class="counter-item">
+                <div class="counter-header">
+                  <h5 class="title"><a href="#">Open Registration</a></h5>
+                </div>
+                <p>1 january ~ 5 February 2022</p>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-12">
+              <div class="counter-item">
+                <div class="counter-header">
+                  <h5 class="title"><a href="#">Technical Meeting</a></h5>
+                </div>
+                <p>5 February 2022</p>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-12">
+              <div class="counter-item">
+                <div class="counter-header">
+                  <h5 class="title"><a href="#">Dynamics 2022</a></h5>
+                </div>
+                <p>10 ~ 12 February 2022</p>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
   </section>
-  <!-- ========How Section Ends Here======== -->
 
+  <!-- NFLL -->
+  <section id="NFLL" class="games-section padding-bottom padding-top bg-overlay bg_img" data-background="assets/images/background/bg_nfll.jpg">
+    <div class="container">
+      <div class="section-header-2">
+        <h2 class="title">Nurul Fikri Leader League</h2>
+      </div>
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="h-100 w-100 bg_img" data-background="assets/images/about/about4.jpg" style="background-image: url('assets/images/about/about4.jpg');">
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="section-header text-left">
+            <p>Nurul Fikri Leaders League (NFLL) merupakan ajang penguatan dan peningkatan jiwa kepemimpinan yang berkolabolasi dengan Campaign. Melalui sesi upgrading dan kompetisi social campaign yang akan diikuti oleh ketua & wakil/perwakilan organisasi intra sekolah di wilayah Jabodetabek pada khususnya dan Indonesia pada umumnya.
+              Melalui kegiatan ini, diharapkan dapat meningkatkan kepekaan sosial peserta sedini mungkin, yang nantinya akan mengemban peran untuk menjawab tantangan di sekitarnya dan kontribusi riil terhadap masyarakat.</p>
+          </div>
+          <ul class="mommodo-list">
+            <li>Mommodo odio ut cras, mauris nihilit magna aliquet arcu aliquet, montes tortor</li>
+            <li>Mommodo odio ut cras, mauris nihilit magna aliquet arcu aliquet, montes tortor</li>
+            <li>Mommodo odio ut cras, mauris nihilit magna aliquet arcu aliquet, montes tortor</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
 
-  <!-- ========Games Section Starts Here======== -->
-  <section id="NLC" class="games-section padding-bottom padding-top bg-overlay bg_img" data-background="assets/images/games/game-bg.jpg">
+  <!--NLC -->
+  <section id="NLC" class="faq-section padding-bottom padding-top bg-overlay bg_img" data-background="assets/images/games/game-bg.jpg">
     <div class="container">
       <div class="section-header-2">
         <h2 class="title">Next Leader Competitions</h2>
       </div>
-      <div class="row justify-content-center mb-40-65-none">
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="games-item">
-            <div class="games-thumb">
-              <a href="#"><img src="assets/images/games/games01.jpg" alt="game" /></a>
+      <div class="theme-style">
+        <ul class="nav nav-tabs faq-tab-menu justify-content-center" id="myTab" role="tablist">
+          <li class="nav-item" role="presentation">
+            <a class="nav-link active" id="nfsf-tab" data-toggle="tab" href="#science" role="tab" aria-controls="science" aria-selected="true">Science Competition</a>
+          </li>
+          <li class="nav-item" role="presentation">
+            <a class="nav-link" id="nfsf-tab" data-toggle="tab" href="#nfsf" role="tab" aria-controls="nfsf" aria-selected="false">NF Scout Festival</a>
+          </li>
+          <li class="nav-item" role="presentation">
+            <a class="nav-link" id="sport-tab" data-toggle="tab" href="#sport" role="sport" aria-controls="sport" aria-selected="false">SPORT Competition</a>
+          </li>
+          <li class="nav-item" role="presentation">
+            <a class="nav-link" id="english-tab" data-toggle="tab" href="#english" role="tab" aria-controls="english" aria-selected="false">English Competition</a>
+          </li>
+          <li class="nav-item" role="presentation">
+            <a class="nav-link" id="vlog-tab" data-toggle="tab" href="#vlog" role="tab" aria-controls="vlog" aria-selected="false">Vlog Competition</a>
+          </li>
+          <li class="nav-item" role="presentation">
+            <a class="nav-link" id="poetry-tab" data-toggle="tab" href="#poetry" role="tab" aria-controls="poetry" aria-selected="false">Poetry</a>
+          </li>
+          <li class="nav-item" role="presentation">
+            <a class="nav-link" id="poster-tab" data-toggle="tab" href="#poster" role="tab" aria-controls="poster" aria-selected="false">Poster Competition</a>
+          </li>
+          <li class="nav-item" role="presentation">
+            <a class="nav-link" id="short_story-tab" data-toggle="tab" href="#short_story" role="tab" aria-controls="short_story" aria-selected="false">Short Story</a>
+          </li>
+          <li class="nav-item" role="presentation">
+            <a class="nav-link" id="mhq-tab" data-toggle="tab" href="#mhq" role="tab" aria-controls="mhq" aria-selected="false">MHQ</a>
+          </li>
+          <li class="nav-item" role="presentation">
+            <a class="nav-link" id="gendai-tab" data-toggle="tab" href="#gendai" role="tab" aria-controls="gendai" aria-selected="false">Gen-Z Da'i Competition</a>
+          </li>
+        </ul>
+        <!-- Tab panes -->
+        <div class="tab-content">
+          <div class="tab-pane active" id="science" role="tabpanel" aria-labelledby="science-tab">
+            <div class="section-header-2">
+              <h4 class="title">Science Competition</h4>
             </div>
-            <div class="games-content">
-              <h5 class="title"><a href="#">Futsal</a></h5>
-              <p>
-                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
-                nibh pharetra orem bibendum elit mauris odio
-              </p>
-              <a href="#" class="custom-button active">Register</a>
+            <div class="row justify-content-center pt-5 mb-40-65-none">
+              <div class="col-sm-10 col-md-6 col-xl-4">
+                <div class="games-item">
+                  <div class="games-thumb">
+                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                  </div>
+                  <div class="games-content">
+                    <h5 class="title"><a href="#">Speech</a></h5>                                     
+                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="#" class="custom-button active">Register</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-10 col-md-6 col-xl-4">
+                <div class="games-item">
+                  <div class="games-thumb">
+                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                  </div>
+                  <div class="games-content">
+                    <h5 class="title"><a href="#">Story Telling</a></h5>                    
+                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="#" class="custom-button active">Register</a>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="games-item">
-            <div class="games-thumb">
-              <a href="#"><img src="assets/images/games/games02.jpg" alt="game" /></a>
+          <div class="tab-pane" id="nfsf" role="tabpanel" aria-labelledby="nfsf-tab">
+            <div class="section-header-2">
+              <h4 class="title">NFSF - Nurul Fikri Scout Festival (SCOUT) </h4>
             </div>
-            <div class="games-content">
-              <h5 class="title"><a href="#">Basketball</a></h5>
-              <p>
-                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
-                nibh pharetra orem bibendum elit mauris odio
-              </p>
-              <a href="#" class="custom-button active">Register</a>
+            <div class="row justify-content-center pt-5 mb-40-65-none">
+              <div class="col-sm-10 col-md-6 col-xl-4">
+                <div class="games-item">
+                  <div class="games-thumb">
+                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                  </div>
+                  <div class="games-content">
+                    <h5 class="title"><a href="#">Morse</a></h5>                    
+                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="#" class="custom-button active">Register</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-10 col-md-6 col-xl-4">
+                <div class="games-item">
+                  <div class="games-thumb">
+                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                  </div>
+                  <div class="games-content">
+                    <h5 class="title"><a href="#">Semaphore</a></h5>                    
+                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="#" class="custom-button active">Register</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-10 col-md-6 col-xl-4">
+                <div class="games-item">
+                  <div class="games-thumb">
+                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                  </div>
+                  <div class="games-content">
+                    <h5 class="title"><a href="#">PUPK</a></h5>                    
+                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="#" class="custom-button active">Register</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-10 col-md-6 col-xl-4">
+                <div class="games-item">
+                  <div class="games-thumb">
+                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                  </div>
+                  <div class="games-content">
+                    <h5 class="title"><a href="#">PPGD</a></h5>                    
+                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="#" class="custom-button active">Register</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-10 col-md-6 col-xl-4">
+                <div class="games-item">
+                  <div class="games-thumb">
+                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                  </div>
+                  <div class="games-content">
+                    <h5 class="title"><a href="#">Pioneering</a></h5>                    
+                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="#" class="custom-button active">Register</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-10 col-md-6 col-xl-4">
+                <div class="games-item">
+                  <div class="games-thumb">
+                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                  </div>
+                  <div class="games-content">
+                    <h5 class="title"><a href="#">Kreasi Yel-Yel</a></h5>                    
+                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="#" class="custom-button active">Register</a>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="games-item">
-            <div class="games-thumb">
-              <a href="#"><img src="assets/images/games/games03.jpg" alt="game" /></a>
+          <div class="tab-pane" id="sport" role="tabpanel" aria-labelledby="sport-tab">
+            <div class="section-header-2">
+              <h4 class="title">SPORT Competition</h4>
             </div>
-            <div class="games-content">
-            <h5 class="title"><a href="#">Vlog</a></h5>
-              <p>
-                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
-                nibh pharetra orem bibendum elit mauris odio
-              </p>
-              <a href="#" class="custom-button active">Register</a>
+            <div class="row justify-content-center pt-5 mb-40-65-none">
+              <div class="col-sm-10 col-md-6 col-xl-4">
+                <div class="games-item">
+                  <div class="games-thumb">
+                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                  </div>
+                  <div class="games-content">
+                    <h5 class="title"><a href="#">Archery</a></h5>                    
+                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="#" class="custom-button active">Register</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-10 col-md-6 col-xl-4">
+                <div class="games-item">
+                  <div class="games-thumb">
+                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                  </div>
+                  <div class="games-content">
+                    <h5 class="title"><a href="#">Tradional Games</a></h5>                    
+                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="#" class="custom-button active">Register</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-10 col-md-6 col-xl-4">
+                <div class="games-item">
+                  <div class="games-thumb">
+                    <a href="#"><img src="assets/images/games/games01.jpg" alt="game" /></a>
+                  </div>
+                  <div class="games-content">
+                    <h5 class="title"><a href="#">Futsal</a></h5>                    
+                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="#" class="custom-button active">Register</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-10 col-md-6 col-xl-4">
+                <div class="games-item">
+                  <div class="games-thumb">
+                    <a href="#"><img src="assets/images/games/games02.jpg" alt="game" /></a>
+                  </div>
+                  <div class="games-content">
+                    <h5 class="title"><a href="#">Basketball</a></h5>                    
+                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="#" class="custom-button active">Register</a>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="games-item">
-            <div class="games-thumb">
-              <a href="#"><img src="assets/images/games/games04.jpg" alt="game" /></a>
+          <div class="tab-pane" id="english" role="tabpanel" aria-labelledby="english-tab">
+            <div class="section-header-2">
+              <h4 class="title">English Competition</h4>
             </div>
-            <div class="games-content">
+            <div class="row justify-content-center pt-5 mb-40-65-none">
+              <div class="col-sm-10 col-md-6 col-xl-4">
+                <div class="games-item">
+                  <div class="games-thumb">
+                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                  </div>
+                  <div class="games-content">
+                    <h5 class="title"><a href="#">Speech</a></h5>                    
+                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="#" class="custom-button active">Register</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-10 col-md-6 col-xl-4">
+                <div class="games-item">
+                  <div class="games-thumb">
+                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                  </div>
+                  <div class="games-content">
+                    <h5 class="title"><a href="#">Story Telling</a></h5>                    
+                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="#" class="custom-button active">Register</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="tab-pane" id="vlog" role="tabpanel" aria-labelledby="vlog-tab">
+            <div class="section-header-2">
+              <h4 class="title">Vlog Competition</h4>
+            </div>
+            <div class="row justify-content-center pt-5 mb-40-65-none">
+              <div class="col-sm-10 col-md-6 col-xl-4">
+                <div class="games-item">
+                  <div class="games-thumb">
+                    <a href="#"><img src="assets/images/games/games03.jpg" alt="game" /></a>
+                  </div>
+                  <div class="games-content">
+                    <h5 class="title"><a href="#">Vlog</a></h5>                    
+                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="#" class="custom-button active">Register</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="tab-pane" id="poetry" role="tabpanel" aria-labelledby="poetry-tab">
+            <div class="section-header-2">
+              <h4 class="title">Poetry</h4>
+            </div>
+            <div class="row justify-content-center pt-5 mb-40-65-none">
+              <div class="col-sm-10 col-md-6 col-xl-4">
+                <div class="games-item">
+                  <div class="games-thumb">
+                    <a href="#"><img src="assets/images/games/games04.jpg" alt="game" /></a>
+                  </div>
+                  <div class="games-content">
 
-              <h5 class="title"><a href="#">Poetry</a></h5>
+                    <h5 class="title"><a href="#">Poetry</a></h5>
+                    
+                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="#" class="custom-button active">Register</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="tab-pane" id="poster" role="tabpanel" aria-labelledby="poster-tab">
+            <div class="section-header-2">
+              <h4 class="title">Poster Competition</h4>
+            </div>
+            <div class="row justify-content-center pt-5 mb-40-65-none">
+              <div class="col-sm-10 col-md-6 col-xl-4">
+                <div class="games-item">
+                  <div class="games-thumb">
+                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                  </div>
+                  <div class="games-content">
 
-              <p>
-                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
-                nibh pharetra orem bibendum elit mauris odio
-              </p>
-              <a href="#" class="custom-button active">Register</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="games-item">
-            <div class="games-thumb">
-              <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
-            </div>
-            <div class="games-content">
+                    <h5 class="title"><a href="#">Poster</a></h5>
 
-              <h5 class="title"><a href="#">Poster</a></h5>
-
-  
-              <p>
-                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
-                nibh pharetra orem bibendum elit mauris odio
-              </p>
-              <a href="#" class="custom-button active">Register</a>
+                    
+                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="#" class="custom-button active">Register</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="tab-pane" id="short_story" role="tabpanel" aria-labelledby="short_story-tab">
+            <div class="section-header-2">
+              <h4 class="title">Short Story</h4>
+            </div>
+            <div class="row justify-content-center pt-5 mb-40-65-none">
+              <div class="col-sm-10 col-md-6 col-xl-4">
+                <div class="games-item">
+                  <div class="games-thumb">
+                    <a href="#"><img src="assets/images/games/games06.jpg" alt="game" /></a>
+                  </div>
+                  <div class="games-content">
+                    <h5 class="title"><a href="#">Short Story</a></h5>                    
+                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="#" class="custom-button active">Register</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="tab-pane" id="mhq" role="tabpanel" aria-labelledby="mhq-tab">
+            <div class="section-header-2">
+              <h4 class="title">Musabaqah Hifdhil Quran</h4>
+            </div>
+            <div class="row justify-content-center pt-5 mb-40-65-none">
+              <div class="col-sm-10 col-md-6 col-xl-4">
+                <div class="games-item">
+                  <div class="games-thumb">
+                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                  </div>
+                  <div class="games-content">
+                    <h5 class="title"><a href="#">MHQ</a></h5>                    
+                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="#" class="custom-button active">Register</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="tab-pane" id="gendai" role="tabpanel" aria-labelledby="gendai-tab">
+            <div class="section-header-2">
+              <h4 class="title">Gen-Z Da'i Competition</h4>
+            </div>
+            <div class="row justify-content-center pt-5 mb-40-65-none">
+              <div class="col-sm-10 col-md-6 col-xl-4">
+                <div class="games-item">
+                  <div class="games-thumb">
+                    <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
+                  </div>
+                  <div class="games-content">
+                    <h5 class="title"><a href="#">Gen-Z Da'i</a></h5>                    
+                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="#" class="custom-button active">Register</a>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="games-item">
-            <div class="games-thumb">
-              <a href="#"><img src="assets/images/games/games06.jpg" alt="game" /></a>
-            </div>
-            <div class="games-content">
-              <h5 class="title"><a href="#">Short Story</a></h5>
-              <p>
-                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
-                nibh pharetra orem bibendum elit mauris odio
-              </p>
-              <a href="#" class="custom-button active">Register</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="games-item">
-            <div class="games-thumb">
-              <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
-            </div>
-            <div class="games-content">
-              <h5 class="title"><a href="#">MHQ</a></h5>
-              <p>
-                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
-                nibh pharetra orem bibendum elit mauris odio
-              </p>
-              <a href="#" class="custom-button active">Register</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="games-item">
-            <div class="games-thumb">
-              <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
-            </div>
-            <div class="games-content">
-              <h5 class="title"><a href="#">Gen-Z Da'i</a></h5>
-              <p>
-                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
-                nibh pharetra orem bibendum elit mauris odio
-              </p>
-              <a href="#" class="custom-button active">Register</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="games-item">
-            <div class="games-thumb">
-              <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
-            </div>
-            <div class="games-content">
-              <h5 class="title"><a href="#">Science Project</a></h5>
-              <p>
-                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
-                nibh pharetra orem bibendum elit mauris odio
-              </p>
-              <a href="#" class="custom-button active">Register</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="games-item">
-            <div class="games-thumb">
-              <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
-            </div>
-            <div class="games-content">
-              <h5 class="title"><a href="#">Cerdas Cermat</a></h5>
-              <p>
-                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
-                nibh pharetra orem bibendum elit mauris odio
-              </p>
-              <a href="#" class="custom-button active">Register</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="games-item">
-            <div class="games-thumb">
-              <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
-            </div>
-            <div class="games-content">
-              <h5 class="title"><a href="#">Morse</a></h5>
-              <p>
-                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
-                nibh pharetra orem bibendum elit mauris odio
-              </p>
-              <a href="#" class="custom-button active">Register</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="games-item">
-            <div class="games-thumb">
-              <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
-            </div>
-            <div class="games-content">
-              <h5 class="title"><a href="#">Semaphore</a></h5>
-              <p>
-                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
-                nibh pharetra orem bibendum elit mauris odio
-              </p>
-              <a href="#" class="custom-button active">Register</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="games-item">
-            <div class="games-thumb">
-              <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
-            </div>
-            <div class="games-content">
-              <h5 class="title"><a href="#">PUPK</a></h5>
-              <p>
-                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
-                nibh pharetra orem bibendum elit mauris odio
-              </p>
-              <a href="#" class="custom-button active">Register</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="games-item">
-            <div class="games-thumb">
-              <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
-            </div>
-            <div class="games-content">
-              <h5 class="title"><a href="#">PPGD</a></h5>
-              <p>
-                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
-                nibh pharetra orem bibendum elit mauris odio
-              </p>
-              <a href="#" class="custom-button active">Register</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="games-item">
-            <div class="games-thumb">
-              <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
-            </div>
-            <div class="games-content">
-              <h5 class="title"><a href="#">Pioneering</a></h5>
-              <p>
-                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
-                nibh pharetra orem bibendum elit mauris odio
-              </p>
-              <a href="#" class="custom-button active">Register</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="games-item">
-            <div class="games-thumb">
-              <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
-            </div>
-            <div class="games-content">
-              <h5 class="title"><a href="#">Kreasi Yel-Yel</a></h5>
-              <p>
-                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
-                nibh pharetra orem bibendum elit mauris odio
-              </p>
-              <a href="#" class="custom-button active">Register</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="games-item">
-            <div class="games-thumb">
-              <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
-            </div>
-            <div class="games-content">
-              <h5 class="title"><a href="#">Archery</a></h5>
-              <p>
-                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
-                nibh pharetra orem bibendum elit mauris odio
-              </p>
-              <a href="#" class="custom-button active">Register</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="games-item">
-            <div class="games-thumb">
-              <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
-            </div>
-            <div class="games-content">
-              <h5 class="title"><a href="#">Tradional Games</a></h5>
-              <p>
-                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
-                nibh pharetra orem bibendum elit mauris odio
-              </p>
-              <a href="#" class="custom-button active">Register</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="games-item">
-            <div class="games-thumb">
-              <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
-            </div>
-            <div class="games-content">
-              <h5 class="title"><a href="#">Speech</a></h5>
-              <p>
-                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
-                nibh pharetra orem bibendum elit mauris odio
-              </p>
-              <a href="#" class="custom-button active">Register</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-xl-4">
-          <div class="games-item">
-            <div class="games-thumb">
-              <a href="#"><img src="assets/images/games/games05.jpg" alt="game" /></a>
-            </div>
-            <div class="games-content">
-              <h5 class="title"><a href="#">Story Telling</a></h5>
-           <p>
-                Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu
-                nibh pharetra orem bibendum elit mauris odio
-              </p>
-              <a href="#" class="custom-button active">Register</a>
-            </div>
-          </div>
-        </div>
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfMEtO3ntQioFHlRD_nzYSjaF0f0NzAYgR_IzK_ILVd9q7vHg/viewform?embedded=true" width="1200" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
       </div>
     </div>
   </section>
-  <!-- ========Games Section Ends Here======== -->
+
 
   <!-- ========Gamers Section Starts Here======== -->
   <section class="gamers-section padding-top padding-bottom">
@@ -570,7 +658,7 @@
               <div class="gamer-thumb">
 
 
-                  <img src="assets/images/gamers/gamers01.png" alt="gamers" />
+                <img src="assets/images/gamers/gamers01.png" alt="gamers" />
                 </a>
               </div>
               <div class="gamer-content">
@@ -589,7 +677,7 @@
                 </a>
               </div>
               <div class="gamer-content">
-               <h5 class="title"><a href="#">Hera Rahman</a></h5>
+                <h5 class="title"><a href="#">Hera Rahman</a></h5>
 
                 <p>New Gamers</p>
               </div>
@@ -599,7 +687,7 @@
             <div class="gamer-item section-bg-2">
               <div class="gamer-thumb">
 
-                  <img src="assets/images/gamers/gamers03.png" alt="gamers" />
+                <img src="assets/images/gamers/gamers03.png" alt="gamers" />
                 </a>
               </div>
               <div class="gamer-content">
@@ -617,167 +705,116 @@
   <section class="lends-section" id="merchandise">
     <div class="container">
       <!-- <div class="padding-top padding-bottom section-bg"> -->
-      
+
       <div class="container">
         <div class="section-header-2">
           <h2 class="title">Dynamics Merchandise</h2>
         </div>
-      <div class="lends-table-wrapper">
-        <table class="lend-table">
-          <tbody class="table-body">
-            <tr>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                </a>
-              </td>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                </a>
-              </td>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                </a>
-              </td>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                </a>
-              </td>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                </a>
-              </td>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                </a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
-                </a>
-              </td>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
-                </a>
-              </td>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
-                </a>
-              </td>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
-                </a>
-              </td>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
-                </a>
-              </td>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
-                </a>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                </a>
-              </td>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                </a>
-              </td>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                </a>
-              </td>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                </a>
-              </td>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                </a>
-              </td>
-              <td>
-                <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                  <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                </a>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-      <!-- </div> -->
-    </div>
-  </section>
-
-  <!-- ========Achivement Section Starts Here======== -->
-  <section class="achivement-section padding-bottom padding-top">
-    <div class="container">
-      <div class="section-header">
-        <h2 class="title">Our Achivement</h2>
-      </div>
-      <div class="row mb--40">
-        <div class="col-md-7 pr-xl-5 mb-40">
-          <div class="video-wrapper bg_img pos-rel bg-lay" data-background="assets/images/achivement/achivements.jpg">
-            <img class="d-md-none" src="assets/images/achivement/achivements.jpg" alt="achivements" />
-            <a class="video-button popup" href="https://www.youtube.com/watch?v=GT6-H4BRyqQ">
-              <i class="flaticon-play"></i>
-            </a>
-          </div>
+        <div class="lends-table-wrapper">
+          <table class="lend-table">
+            <tbody class="table-body">
+              <tr>
+                <td>
+                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  </a>
+                </td>
+                <td>
+                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  </a>
+                </td>
+                <td>
+                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  </a>
+                </td>
+                <td>
+                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  </a>
+                </td>
+                <td>
+                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  </a>
+                </td>
+                <td>
+                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                    <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
+                  </a>
+                </td>
+                <td>
+                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                    <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
+                  </a>
+                </td>
+                <td>
+                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                    <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
+                  </a>
+                </td>
+                <td>
+                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                    <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
+                  </a>
+                </td>
+                <td>
+                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                    <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
+                  </a>
+                </td>
+                <td>
+                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                    <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  </a>
+                </td>
+                <td>
+                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  </a>
+                </td>
+                <td>
+                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  </a>
+                </td>
+                <td>
+                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  </a>
+                </td>
+                <td>
+                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  </a>
+                </td>
+                <td>
+                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
+                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
+                  </a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
-        <div class="col-md-5 mb-40">
-          <div class="row mb-30-none justify-content-center">
-            <div class="col-sm-6 col-md-12">
-              <div class="counter-item">
-                <div class="counter-header">
-                  <h2 class="title odometer" data-odometer-final="85">00</h2>
-                  <h2 class="subtitle">k</h2>
-                </div>
-                <p>Players</p>
-              </div>
-            </div>
-            <div class="col-sm-6 col-md-12">
-              <div class="counter-item active">
-                <div class="counter-header">
-                  <h2 class="title odometer" data-odometer-final="60">00</h2>
-                  <h2 class="subtitle">+</h2>
-                </div>
-                <p>Players</p>
-              </div>
-            </div>
-            <div class="col-sm-6 col-md-12">
-              <div class="counter-item">
-                <div class="counter-header">
-                  <h2 class="title odometer" data-odometer-final="90">00</h2>
-                  <h2 class="subtitle">m</h2>
-                </div>
-                <p>Players</p>
-              </div>
-            </div>
-          </div>
-        </div>
+        <!-- </div> -->
       </div>
-    </div>
   </section>
-  <!-- ========Achivement Section Ends Here======== -->
 
   <!-- ========Winner Section Starts Here======== -->
   <section class="winner-section padding-bottom">
