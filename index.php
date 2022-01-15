@@ -700,7 +700,7 @@
   <!-- ========Gamers Section Ends Here======== -->
 
   <!-- Merchandise -->
-  <section class="lends-section" id="merchandise">
+  <section class="lends-section padding-top padding-bottom bg-overlay bg_img" id="merchandise" data-background="assets/images/background/bg_lomba.jpg">
     <div class="container">
       <!-- <div class="padding-top padding-bottom section-bg"> -->
 
@@ -815,7 +815,7 @@
   </section>
 
   <!-- Galery -->
-  <section class="post-section padding-top padding-bottom" id="gallery">
+  <section class="post-section padding-top padding-bottom bg-overlay bg_img" id="gallery" data-background="assets/images/background/bg_lomba.jpg">
     <div class="section-header-2">
       <h2 class="title">Gallery</h2>
     </div>
@@ -856,7 +856,7 @@
 
 
   <!-- Sponsors -->
-  <section class="feature-section padding-top padding-bottom" id="sponsors">
+  <section class="feature-section padding-bottom padding-top bg-overlay bg_img" data-background="assets/images/background/bg_nfll.jpg" id="sponsors">
     <div class="section-header-2">
       <h2 class="title">Sponsors</h2>
     </div>
