@@ -287,7 +287,7 @@
   </section>
 
   <!--NLC -->
-  <section id="NLC" class="faq-section padding-bottom padding-top bg-overlay bg_img" data-background="assets/images/games/game-bg.jpg">
+  <section id="NLC" class="faq-section padding-bottom padding-top bg-overlay bg_img" data-background="assets/images/background/bg_lomba.jpg">
     <div class="container">
       <div class="section-header-2">
         <h2 class="title">Next Leader Competitions</h2>
@@ -825,27 +825,27 @@
           <div class="swiper-wrapper">
             <div class="swiper-slide">
               <div class="post-thumb" style="padding: 10px;">
-                <img src="assets/images/blog/blog01.jpg" alt="blog">
+                <img src="assets/images/blog/gallery1.jpg" alt="Gambar">
               </div>
             </div>
             <div class="swiper-slide">
               <div class="post-thumb" style="padding: 10px;">
-                <img src="assets/images/blog/blog02.jpg" alt="blog">
+                <img src="assets/images/blog/gallery2.jpg" alt="Gambar">
               </div>
             </div>
             <div class="swiper-slide">
               <div class="post-thumb" style="padding: 10px;">
-                <img src="assets/images/blog/blog03.jpg" alt="blog">
+                <img src="assets/images/blog/gallery3.jpg" alt="Gambar">
               </div>
             </div>
             <div class="swiper-slide">
               <div class="post-thumb" style="padding: 10px;">
-                <img src="assets/images/blog/blog01.jpg" alt="blog">
+                <img src="assets/images/blog/gallery4.jpg" alt="blog">
               </div>
             </div>
             <div class="swiper-slide">
               <div class="post-thumb" style="padding: 10px;">
-                <img src="assets/images/blog/blog01.jpg" alt="blog">
+                <img src="assets/images/blog/gallery5.jpg" alt="blog">
               </div>
             </div>
           </div>
@@ -959,7 +959,7 @@
     </div>
   </section>
   <!-- ========Footer Section Starts Here======== -->
-  <footer class="bg_img bg-lay" data-background="assets/images/footer/footer-bg.jpg">
+  <footer class="bg_img bg-lay" data-background="assets/images/footer/bg_footer.jpg">
     <div class="footer-top">
       <div class="container">
         <div class="footer-wrapper">
