@@ -909,13 +909,13 @@
               <i class="flaticon-phone-call"></i>
             </div>
             <div class="afiliate-content">
-              <h6 class="title">Call us</h6>
+              <h6 class="title">Call us ( Whatsapp )</h6>
               <ul>
                 <li>
-                  <a href="Tel:8393849">1111 2222 3333 4444</a>
+                  <a href="https://api.whatsapp.com/send/?phone=6282194478842&text=Assalamu+Alaikum+Wr.Wb+NFBS+Bogor%0D%0ANama+saya+%3A+%0D%0ASaya+ingin+mengetahui+info+tentang+%3A&app_absent=0" target="_blank">0821-9447-8842 (Nurul)</a>
                 </li>
                 <li>
-                  <a href="Tel:8388383">3333 4444 666 9999</a>
+                  <a href="https://api.whatsapp.com/send/?phone=628991461443&text=Assalamu+Alaikum+Wr.Wb+NFBS+Bogor%0D%0ANama+saya+%3A+%0D%0ASaya+ingin+mengetahui+info+tentang+%3A&app_absent=0" target="_blank">0899-1461-443 (Elsa)</a>
                 </li>
               </ul>
             </div>
@@ -930,10 +930,8 @@
               <h6 class="title">Visit us</h6>
               <ul>
                 <li>
-                  <a href="Mailto:demo@gmail.com">ore.gameonline.com</a>
-                </li>
-                <li>
-                  <a href="Mailto:demo@gmail.com">www.demos.com</a>
+                  <a href="Mailto:dynamics@smpit-nfbogor.sch.id">dynamics@smpit-nfbogor.sch.id</a>
+                  <a href="#">dynamics.nfbsbogor.sch.id</a>
                 </li>
               </ul>
             </div>
@@ -945,13 +943,13 @@
               <i class="flaticon-conversation"></i>
             </div>
             <div class="afiliate-content">
-              <h6 class="title">Live chat</h6>
+              <h6 class="title">Live chat ( Whatsapp )</h6>
               <ul>
                 <li>
-                  <a href="#">Chate with 24/7</a>
+                  <a href="https://api.whatsapp.com/send/?phone=6282194478842&text=Assalamu+Alaikum+Wr.Wb+NFBS+Bogor%0D%0ANama+saya+%3A+%0D%0ASaya+ingin+mengetahui+info+tentang+%3A&app_absent=0" target="_blank">0821-9447-8842 (Nurul)</a>
                 </li>
                 <li>
-                  <a href="Tel:8388383">0000 - 1111 - 2222</a>
+                  <a href="https://api.whatsapp.com/send/?phone=628991461443&text=Assalamu+Alaikum+Wr.Wb+NFBS+Bogor%0D%0ANama+saya+%3A+%0D%0ASaya+ingin+mengetahui+info+tentang+%3A&app_absent=0" target="_blank">0899-1461-443 (Elsa)</a>
                 </li>
               </ul>
             </div>
@@ -987,56 +985,12 @@
           </div>
           <div class="right-side">
             <div class="footer-widget widget-games">
-              <h6 class="title">Top Games</h6>
+              <h6 class="title">SITE LINK</h6>
               <ul>
                 <li>
-                  <a href="#">
-                    <div class="thumb">
-                      <img src="assets/images/footer/02.png" alt="footer" />
-                    </div>
+                  <a href="https://ppdb.nfbs-bogor.sch.id/">
                     <div class="content">
-                      Imperdiet
-                      <div class="ratings">
-                        <span><i class="fas fa-star"></i></span>
-                        <span><i class="fas fa-star"></i></span>
-                        <span><i class="fas fa-star"></i></span>
-                        <span><i class="fas fa-star"></i></span>
-                        <span><i class="fas fa-star"></i></span>
-                      </div>
-                    </div>
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <div class="thumb">
-                      <img src="assets/images/footer/01.png" alt="footer" />
-                    </div>
-                    <div class="content">
-                      big fighter gun
-                      <div class="ratings">
-                        <span><i class="fas fa-star"></i></span>
-                        <span><i class="fas fa-star"></i></span>
-                        <span><i class="fas fa-star"></i></span>
-                        <span><i class="fas fa-star"></i></span>
-                        <span><i class="fas fa-star"></i></span>
-                      </div>
-                    </div>
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <div class="thumb">
-                      <img src="assets/images/footer/03.png" alt="footer" />
-                    </div>
-                    <div class="content">
-                      zeuz max zone
-                      <div class="ratings">
-                        <span><i class="fas fa-star"></i></span>
-                        <span><i class="fas fa-star"></i></span>
-                        <span><i class="fas fa-star"></i></span>
-                        <span><i class="fas fa-star"></i></span>
-                        <span><i class="fas fa-star"></i></span>
-                      </div>
+                      PPDB NFBS Bogor
                     </div>
                   </a>
                 </li>
@@ -1051,7 +1005,7 @@
                 </li>
                 <li>
                   <span>Email</span>
-                  <a href="Mailto:demo@gmail.com"><span class="__cf_email__" data-cfemail="9ffbfaf2f0dff8f2fef6f3b1fcf0f2">[email&#160;protected]</span></a>
+                  <a href="Mailto:dynamics@smpit-nfbogor.sch.id">dynamics@smpit-nfbogor.sch.id</a>
                 </li>
                 <li>
                   <span>Phone</span>
