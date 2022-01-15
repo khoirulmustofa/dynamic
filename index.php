@@ -85,7 +85,7 @@
         <span class="left">Welcome to DYNAMICS SMPIT NFBS Bogor</span>
         <ul>
           <li>
-            <a href="https://instagram.com/nfbs_dynamics" target="blank" style="line-height: unset;" class="custom-button">Instagram</a>
+            <a href="https://instagram.com/dynamics.nfbsbogor" target="blank" style="line-height: unset;" class="custom-button">Instagram</a>
           </li>
           <li>
             <a href="https://youtube.com/NurulFikriBoardingSchoolBogor" target="blank" style="line-height: unset;" class="custom-button">Youtube</a>
@@ -909,13 +909,13 @@
               <i class="flaticon-phone-call"></i>
             </div>
             <div class="afiliate-content">
-              <h6 class="title">Call us</h6>
+              <h6 class="title">Contac Person</h6>
               <ul>
                 <li>
-                  <a href="Tel:8393849">1111 2222 3333 4444</a>
+                <a target="blank" href="https://wa.me/6282194478842">Nurul</a>
                 </li>
                 <li>
-                  <a href="Tel:8388383">3333 4444 666 9999</a>
+                <a target="blank" href="https://wa.me/628991461443">Elsa</a>
                 </li>
               </ul>
             </div>
@@ -930,34 +930,16 @@
               <h6 class="title">Visit us</h6>
               <ul>
                 <li>
-                  <a href="Mailto:demo@gmail.com">ore.gameonline.com</a>
+                  <a href=https://instagram.com/dynamics.nfbsbogor>Instagram</a>
                 </li>
                 <li>
-                  <a href="Mailto:demo@gmail.com">www.demos.com</a>
+                  <a href="Mailto:dynamics@smpit-nfbogor.sch.id">Email</a>
                 </li>
               </ul>
             </div>
           </div>
         </div>
-        <div class="col-sm-10 col-md-6 col-lg-4">
-          <div class="afiliate-item-3">
-            <div class="afiliate-thumb">
-              <i class="flaticon-conversation"></i>
-            </div>
-            <div class="afiliate-content">
-              <h6 class="title">Live chat</h6>
-              <ul>
-                <li>
-                  <a href="#">Chate with 24/7</a>
-                </li>
-                <li>
-                  <a href="Tel:8388383">0000 - 1111 - 2222</a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
+       </div>
     </div>
   </section>
   <!-- ========Footer Section Starts Here======== -->
@@ -976,7 +958,7 @@
                   <a href="https://youtube.com/NurulFikriBoardingSchoolBogor" target="_blank"><i class="fab fa-youtube"></i></a>
                 </li>
                 <li>
-                  <a href="https://instagram.com/nfbs_dynamics" target="blank"><i class="fab fa-instagram"></i></a>
+                  <a href="https://instagram.com/dynamics.nfbsbogor" target="blank"><i class="fab fa-instagram"></i></a>
                 </li>
               </ul>
             </div>
@@ -1046,16 +1028,16 @@
               <h6 class="title">Contact Us</h6>
               <ul>
                 <li>
-                  <span>Jl Jami, Sukaluyu, Tamansari, Bogor</span>
-                  <span>Jawa Barat, 16610</span>
+                  <a href="https://goo.gl/maps/VgepUhMZ48EnxH7r5">Jl Jami, Sukaluyu, Tamansari, Bogor Jawa Barat, 16610
                 </li>
                 <li>
                   <span>Email</span>
-                  <a href="Mailto:demo@gmail.com"><span class="__cf_email__" data-cfemail="9ffbfaf2f0dff8f2fef6f3b1fcf0f2">[email&#160;protected]</span></a>
+                  <a href="Mailto:dynamics@smpit-nfbogor.sch.id"><span class="__cf_email__" data-cfemail="9ffbfaf2f0dff8f2fef6f3b1fcf0f2">dynamics@smpit-nfbogor.sch.id</span></a>
                 </li>
                 <li>
-                  <span>Phone</span>
-                  <a href="tel:+1111-2222-3333">1111 - 2222 - 3333</a>
+                  <span>Contact Person</span>
+                  <a target="blank" href="https://wa.me/6282194478842">Nurul</a>
+                  <a target="blank" href="https://wa.me/628991461443">Elsa</a>
                 </li>
               </ul>
             </div>
