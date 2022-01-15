@@ -2305,7 +2305,6 @@ header.header-two.active .logo {
 
 .feature-slider {
   overflow: hidden;
-  
 }
 
 /*Feature Section Two Starts Here*/
@@ -5936,8 +5935,24 @@ form .custom-button {
   font-family: "Exo", sans-serif;
 }
 
+.custom1-button {
+  font-weight: 700;
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 48px;
+  padding: 0px 30px;
+  background: transparent;
+  text-transform: uppercase;
+  border: 1px solid rgba(252, 153, 4, 0.9);
+  font-weight: 700;
+  font-size: 20px;
+  font-family: "Exo", sans-serif;
+}
+
 @media (max-width: 575px) {
   .custom-button {
+    font-size: 16px;
+  }
+  .custom1-button {
     font-size: 16px;
   }
 }
@@ -5992,7 +6007,36 @@ form .custom-button {
   border-color: #02c4f2;
 }
 
+.custom1-button.active {
+  color: #ffffff;
+  background-image: -moz-linear-gradient(
+    94deg,
+    #786a01 24%,
+    #dd9a03 56%,
+    #8b6001 100%
+  );
+  background-image: -webkit-linear-gradient(
+    94deg,
+    #786a01 24%,
+    #dd9a03 56%,
+    #8b6001 100%
+  );
+  background: -ms-linear-gradient(
+    94deg,
+    #786a01 24%,
+    #dd9a03 56%,
+    #8b6001 100%
+  );
+  border-color: #fcce03;
+}
+
 .custom-button.active:hover {
+  color: rgba(255, 255, 255, 0.9);
+  background: transparent;
+  border-color: rgba(255, 255, 255, 0.9);
+}
+
+.custom1-button.active:hover {
   color: rgba(255, 255, 255, 0.9);
   background: transparent;
   border-color: rgba(255, 255, 255, 0.9);
