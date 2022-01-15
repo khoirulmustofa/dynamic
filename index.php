@@ -85,7 +85,7 @@
         <span class="left">Welcome to DYNAMICS SMPIT NFBS Bogor</span>
         <ul>
           <li>
-            <a href="https://instagram.com/nfbs_dynamics" target="blank" style="line-height: unset;" class="custom-button">Instagram</a>
+            <a href="https://instagram.com/dynamics.nfbsbogor" target="blank" style="line-height: unset;" class="custom-button">Instagram</a>
           </li>
           <li>
             <a href="https://youtube.com/NurulFikriBoardingSchoolBogor" target="blank" style="line-height: unset;" class="custom-button">Youtube</a>
@@ -974,7 +974,7 @@
                   <a href="https://youtube.com/NurulFikriBoardingSchoolBogor" target="_blank"><i class="fab fa-youtube"></i></a>
                 </li>
                 <li>
-                  <a href="https://instagram.com/nfbs_dynamics" target="blank"><i class="fab fa-instagram"></i></a>
+                  <a href="https://instagram.com/dynamics.nfbsbogor" target="blank"><i class="fab fa-instagram"></i></a>
                 </li>
               </ul>
             </div>
