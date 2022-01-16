@@ -831,8 +831,7 @@
                 <img src="assets/images/blog/gallery9.jpg" alt="blog">
               </div>
             </div>
-          </div>
-        </div>
+             </div>
       </div>
     </div>
   </section>
