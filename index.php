@@ -797,6 +797,26 @@
                 <img src="assets/images/blog/gallery5.jpg" alt="blog">
               </div>
             </div>
+            <div class="swiper-slide">
+              <div class="post-thumb" style="padding: 10px;">
+                <img src="assets/images/blog/gallery6.jpg" alt="blog">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="post-thumb" style="padding: 10px;">
+                <img src="assets/images/blog/gallery7.jpg" alt="blog">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="post-thumb" style="padding: 10px;">
+                <img src="assets/images/blog/gallery8.jpg" alt="blog">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="post-thumb" style="padding: 10px;">
+                <img src="assets/images/blog/gallery9.jpg" alt="blog">
+              </div>
+            </div>
           </div>
         </div>
       </div>
