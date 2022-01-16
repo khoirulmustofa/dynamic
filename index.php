@@ -220,7 +220,7 @@
         <div class="col-md-7 pr-xl-5 mb-40">
           <div class="video-wrapper bg_img pos-rel bg-lay" data-background="assets/images/image_time_line.png">
             <img class="d-md-none" src="assets/images/image_time_line.png" alt="achivements" />
-            <a class="video-button popup" href="#">
+            <a class="video-button popup" href="https://www.youtube.com/watch?v=A86Yyg1jDgc">
               <i class="flaticon-play"></i>
             </a>
           </div>
