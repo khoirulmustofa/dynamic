@@ -265,7 +265,8 @@
       </div>
       <div class="row">
         <div class="col-lg-6">
-          <div class="h-100 w-100 bg_img" data-background="assets/images/about/about4.jpg" style="background-image: url('assets/images/about/about4.jpg');">
+          <div class="h-100 w-100">
+            <img src="assets/images/lomba/image_nfll.jpg" class="img-fluid" alt="Gambar">
           </div>
         </div>
         <div class="col-lg-6">
@@ -643,61 +644,24 @@
   </section>
 
 
-  <!-- ========Gamers Section Starts Here======== -->
+  <!--Speakers -->
   <section class="gamers-section padding-top padding-bottom">
     <div class="container">
       <div class="container">
         <div class="section-header-2">
-          <h2 class="title">Our Speakers</h2>
+          <h2 class="title">Collaboration</h2>
         </div>
         <div class="row justify-content-center mb-30-none">
-          <div class="col-sm-10 col-md-6 col-lg-4">
-            <div class="gamer-item section-bg-2">
-              <div class="gamer-thumb">
-
-
-                <img src="assets/images/gamers/gamers01.png" alt="gamers" />
-                </a>
-              </div>
-              <div class="gamer-content">
-
-                <p>New Gamers</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-sm-10 col-md-6 col-lg-4">
-            <div class="gamer-item section-bg-2">
-              <div class="gamer-thumb">
-
-                <a href="#">
-
-                  <img src="assets/images/gamers/gamers02.png" alt="gamers" />
-                </a>
-              </div>
-              <div class="gamer-content">
-                <h5 class="title"><a href="#">Hera Rahman</a></h5>
-
-                <p>New Gamers</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-sm-10 col-md-6 col-lg-4">
-            <div class="gamer-item section-bg-2">
-              <div class="gamer-thumb">
-
-                <img src="assets/images/gamers/gamers03.png" alt="gamers" />
-                </a>
-              </div>
-              <div class="gamer-content">
-
-                <p>New Gamers</p>
-              </div>
+          <div class="blog-item">
+            <div class="blog-thumb">
+              <a href="https://www.campaign.com/">
+                <img src="assets/images/sponsor/campaign.jpg" alt="campain" />
+              </a>
             </div>
           </div>
         </div>
       </div>
   </section>
-  <!-- ========Gamers Section Ends Here======== -->
 
   <!-- Merchandise -->
   <section class="lends-section padding-top padding-bottom bg-overlay bg_img" id="merchandise" data-background="assets/images/background/bg_lomba.jpg">
@@ -737,11 +701,6 @@
                     <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
                   </a>
                 </td>
-                <td>
-                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                  </a>
-                </td>
               </tr>
               <tr>
                 <td>
@@ -769,18 +728,8 @@
                     <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
                   </a>
                 </td>
-                <td>
-                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                    <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
-                  </a>
-                </td>
               </tr>
               <tr>
-                <td>
-                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                  </a>
-                </td>
                 <td>
                   <a href="https://dyzar-2022.sirclo.me" target="_blank">
                     <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
@@ -815,7 +764,7 @@
   </section>
 
   <!-- Galery -->
-  <section class="post-section padding-top padding-bottom bg-overlay bg_img" id="gallery" data-background="assets/images/background/bg_lomba.jpg">
+  <section class="post-section padding-top padding-bottom bg_img" id="gallery" data-background="assets/images/background/bg_lomba.jpg">
     <div class="section-header-2">
       <h2 class="title">Gallery</h2>
     </div>
@@ -856,11 +805,23 @@
 
 
   <!-- Sponsors -->
-  <section class="feature-section padding-bottom padding-top bg-overlay bg_img" data-background="assets/images/background/bg_nfll.jpg" id="sponsors">
+  <section class="feature-section padding-bottom padding-top" id="sponsors">
     <div class="section-header-2">
       <h2 class="title">Sponsors</h2>
     </div>
     <div class="container">
+      <div class="row mb-40-65-none">
+        <div class="col-12">
+          <div class="blog-item">
+            <div class="blog-thumb">
+              <a href="https://www.jamkrindo.co.id/">
+                <img src="assets/images/sponsor/jamkrindo.jpg" alt="blog">
+              </a>
+            </div>
+
+          </div>
+        </div>
+      </div>
       <div class="m--15">
         <div class="feature-slider">
           <div class="swiper-wrapper">
@@ -868,7 +829,7 @@
               <div class="feature-item">
                 <div class="feature-inner">
                   <div class="post-thumb">
-                    <a href="#"><img src="assets/images/sponsor/BJB SYARIAH.png" alt="blog"></a>
+                    <a href="https://www.bjbsyariah.co.id/"><img src="assets/images/sponsor/BJB SYARIAH.png" alt="blog"></a>
                   </div>
                 </div>
               </div>
@@ -877,16 +838,7 @@
               <div class="feature-item">
                 <div class="feature-inner">
                   <div class="post-thumb">
-                    <a href="#"><img src="assets/images/sponsor/JAMKINDO.png" alt="blog"></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="feature-item">
-                <div class="feature-inner">
-                  <div class="post-thumb">
-                    <a href="#"><img src="assets/images/ut.jpg" alt="blog"></a>
+                    <a href="https://www.jamkrindo.co.id/"><img src="assets/images/sponsor/JAMKINDO.png" alt="blog"></a>
                   </div>
                 </div>
               </div>
@@ -894,6 +846,7 @@
           </div>
         </div>
       </div>
+    </div>
     </div>
   </section>
 
