@@ -895,7 +895,7 @@
               <i class="flaticon-phone-call"></i>
             </div>
             <div class="afiliate-content">
-              <h6 class="title">Call us ( Whatsapp )</h6>
+              <h6 class="title">Call us (Whatsapp)</h6>
               <ul>
                 <li>
                   <a href="https://api.whatsapp.com/send/?phone=6282194478842&text=Assalamu+Alaikum+Wr.Wb+NFBS+Bogor%0D%0ANama+saya+%3A+%0D%0ASaya+ingin+mengetahui+info+tentang+%3A&app_absent=0" target="_blank">0821-9447-8842 (Nurul)</a>
@@ -929,7 +929,7 @@
               <i class="flaticon-conversation"></i>
             </div>
             <div class="afiliate-content">
-              <h6 class="title">Live chat ( Whatsapp )</h6>
+              <h6 class="title">Live chat (Whatsapp)</h6>
               <ul>
                 <li>
                   <a href="https://api.whatsapp.com/send/?phone=6282194478842&text=Assalamu+Alaikum+Wr.Wb+NFBS+Bogor%0D%0ANama+saya+%3A+%0D%0ASaya+ingin+mengetahui+info+tentang+%3A&app_absent=0" target="_blank">0821-9447-8842 (Nurul)</a>
