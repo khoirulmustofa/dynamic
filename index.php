@@ -980,11 +980,7 @@
                   <span>Email</span>
                   <a href="Mailto:dynamics@smpit-nfbogor.sch.id">dynamics@smpit-nfbogor.sch.id</a>
                 </li>
-                <li>
-                  <span>Phone</span>
-                  <a href="tel:+1111-2222-3333">1111 - 2222 - 3333</a>
-                </li>
-              </ul>
+                </ul>
             </div>
           </div>
         </div>
