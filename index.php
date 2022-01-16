@@ -769,6 +769,20 @@
       <h2 class="title">Gallery</h2>
     </div>
     <div class="container">
+      <div class="row mb-40-40-none">
+        <div class="col-12">
+          <div class="blog-item">
+            <div class="blog-thumb">
+            <img src="assets/images/Thumbnail YT.jpg" alt="blog">
+               <a class="video-button popup" href="https://www.youtube.com/watch?v=ZT3v_6Sea_s">
+              <i class="flaticon-play"></i>
+            </a>
+          </div>
+        </div>
+            </a>
+              </a>
+            </div>
+    <div class="container">
       <div class="m--15">
         <div class="feature-slider">
           <div class="swiper-wrapper">
