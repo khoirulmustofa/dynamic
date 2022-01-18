@@ -220,7 +220,7 @@
         <div class="col-md-7 pr-xl-5 mb-40">
           <div class="video-wrapper bg_img pos-rel bg-lay" data-background="assets/images/image_time_line.png">
             <img class="d-md-none" src="assets/images/image_time_line.png" alt="achivements" />
-            <a class="video-button popup" href="https://www.youtube.com/watch?v=A86Yyg1jDgc">
+            <a class="video-button popup" href="assets/video/TRAILER 2019.mp4">
               <i class="flaticon-play"></i>
             </a>
           </div>
@@ -892,34 +892,18 @@
         <div class="col-sm-10 col-md-6 col-lg-4">
           <div class="afiliate-item-3">
             <div class="afiliate-thumb">
-              <i class="flaticon-phone-call"></i>
-            </div>
-            <div class="afiliate-content">
-              <h6 class="title">Call us (Whatsapp)</h6>
-              <ul>
-                <li>
-                  <a href="https://api.whatsapp.com/send/?phone=6282194478842&text=Assalamu+Alaikum+Wr.Wb+NFBS+Bogor%0D%0ANama+saya+%3A+%0D%0ASaya+ingin+mengetahui+info+tentang+%3A&app_absent=0" target="_blank">0821-9447-8842 (Nurul)</a>
-                </li>
-                <li>
-                  <a href="https://api.whatsapp.com/send/?phone=628991461443&text=Assalamu+Alaikum+Wr.Wb+NFBS+Bogor%0D%0ANama+saya+%3A+%0D%0ASaya+ingin+mengetahui+info+tentang+%3A&app_absent=0" target="_blank">0899-1461-443 (Elsa)</a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-lg-4">
-          <div class="afiliate-item-3">
-            <div class="afiliate-thumb">
               <i class="flaticon-link"></i>
             </div>
             <div class="afiliate-content">
               <h6 class="title">Visit us</h6>
               <ul>
-                <li>
-                  <a href="Mailto:dynamics@smpit-nfbogor.sch.id">dynamics@smpit-nfbogor.sch.id</a>
-                  <a href="#">dynamics.nfbsbogor.sch.id</a>
+              <li>
+                  <a href="https://instagram.com/dynamics.nfbsbogor">Instagram</a>
                 </li>
-              </ul>
+                <li>
+                <a href="Mailto:dynamics@smpit-nfbogor.sch.id">dynamics@smpit-nfbogor.sch.id</a>
+                </li>
+                </ul>
             </div>
           </div>
         </div>
@@ -943,7 +927,21 @@
         </div>
       </div>
     </div>
+    <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/61e643bcb84f7301d32b8c06/1fplnh6vk';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
   </section>
+  
   <!-- ========Footer Section Starts Here======== -->
   <footer class="bg_img bg-lay" data-background="assets/images/footer/bg_footer.jpg">
     <div class="footer-top">
