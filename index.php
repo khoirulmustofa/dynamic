@@ -774,7 +774,7 @@
           <div class="blog-item">
             <div class="blog-thumb">
             <img src="assets/images/Thumbnail YT.jpg" alt="blog">
-               <a class="video-button popup" href="https://www.youtube.com/watch?v=ZT3v_6Sea_s">
+               <a class="video-button popup" href="assets/video/After Movie Dynamics 2K19 SMPIT Nurul Fikri Bogor.mp4">
               <i class="flaticon-play"></i>
             </a>
           </div>
