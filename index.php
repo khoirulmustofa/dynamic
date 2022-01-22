@@ -672,92 +672,17 @@
         <div class="section-header-2">
           <h2 class="title">Dynamics Merchandise</h2>
         </div>
-        <div class="lends-table-wrapper">
-          <table class="lend-table">
-            <tbody class="table-body">
-              <tr>
-                <td>
-                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                  </a>
-                </td>
-                <td>
-                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                  </a>
-                </td>
-                <td>
-                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                  </a>
-                </td>
-                <td>
-                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                  </a>
-                </td>
-                <td>
-                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                  </a>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                    <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
-                  </a>
-                </td>
-                <td>
-                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                    <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
-                  </a>
-                </td>
-                <td>
-                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                    <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
-                  </a>
-                </td>
-                <td>
-                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                    <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
-                  </a>
-                </td>
-                <td>
-                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                    <img src="assets/images/merchand/baju.jpg" alt="Gambar" />
-                  </a>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                  </a>
-                </td>
-                <td>
-                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                  </a>
-                </td>
-                <td>
-                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                  </a>
-                </td>
-                <td>
-                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                  </a>
-                </td>
-                <td>
-                  <a href="https://dyzar-2022.sirclo.me" target="_blank">
-                    <img src="assets/images/merchand/tas1.jpg" alt="Gambar" />
-                  </a>
-                </td>
-              </tr>
-            </tbody>
-          </table>
+        <div class="col-12">
+          <div class="blog-item">
+            <div class="blog-thumb">
+              <img src="assets/images/merchand/MERCH.png" alt="blog">
+              <a class="btn btn-success" target="blank" href="https://dyzar-2022.sirclo.me">click here 
+                <i class="flaticon-click"></i>
+              </a>
+            </div>
+          </div>
+          </a>
+          </a>
         </div>
         <!-- </div> -->
       </div>
@@ -889,7 +814,7 @@
               <div class="feature-item">
                 <div class="feature-inner">
                   <div class="post-thumb">
-                    <a href="https://www.poltracking.com/"><img src="assets/images/sponsor/Logo-Poltracking-baru.png" alt="blog"></a>
+                    <a href="https://www.poltracking.com/"><img src="assets/images/sponsor/POLTRACKING.jpg" alt="blog"></a>
                   </div>
                 </div>
               </div>
@@ -899,6 +824,15 @@
                 <div class="feature-inner">
                   <div class="post-thumb">
                     <a href="http://www.newritachemical.com/"><img src="assets/images/sponsor/NEWRITA CHEMICALS.jfif" alt="blog"></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="feature-item">
+                <div class="feature-inner">
+                  <div class="post-thumb">
+                    <a href="https://www.purnamalab.com//"><img src="assets/images/sponsor/purnamalab-logo.png" alt="blog"></a>
                   </div>
                 </div>
               </div>
