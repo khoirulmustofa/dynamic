@@ -450,7 +450,7 @@
                   </div>
                   <div class="games-content">
                     <h5 class="title"><a href="#">Archery</a></h5>
-                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="assets/guidelines/Nurul Fikri Dynamics Sport Guidelines.pdf" class="custom1-button active" download>Guidelines</a>
                     <a target="blank" href="https://forms.gle/HJiejXVA4YFbCYmQ9" class="custom-button active">Register</a>
                   </div>
                 </div>
@@ -462,7 +462,7 @@
                   </div>
                   <div class="games-content">
                     <h5 class="title"><a href="#">Tradional Games</a></h5>
-                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="assets/guidelines/Nurul Fikri Dynamics Sport Guidelines.pdf" class="custom1-button active" download>Guidelines</a>
                     <a target="blank" href="https://forms.gle/HJiejXVA4YFbCYmQ9" class="custom-button active">Register</a>
                   </div>
                 </div>
@@ -474,7 +474,7 @@
                   </div>
                   <div class="games-content">
                     <h5 class="title"><a href="#">Futsal</a></h5>
-                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="assets/guidelines/Nurul Fikri Dynamics Sport Guidelines.pdf" class="custom1-button active" download>Guidelines</a>
                     <a target="blank" href="https://forms.gle/HJiejXVA4YFbCYmQ9" class="custom-button active">Register</a>
                   </div>
                 </div>
@@ -486,7 +486,7 @@
                   </div>
                   <div class="games-content">
                     <h5 class="title"><a href="#">Basketball</a></h5>
-                    <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
+                    <a href="assets/guidelines/Nurul Fikri Dynamics Sport Guidelines.pdf" class="custom1-button active" download>Guidelines</a>
                     <a target="blank" href="https://forms.gle/HJiejXVA4YFbCYmQ9" class="custom-button active">Register</a>
                   </div>
                 </div>
