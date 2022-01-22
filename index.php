@@ -220,7 +220,7 @@
         <div class="col-md-7 pr-xl-5 mb-40">
           <div class="video-wrapper bg_img pos-rel bg-lay" data-background="assets/images/image_time_line.png">
             <img class="d-md-none" src="assets/images/image_time_line.png" alt="achivements" />
-            <a class="video-button popup" href="https://www.youtube.com/watch?v=OtL3dhe-8v8&">
+            <a class="video-button popup" href="https://www.youtube.com/watch?v=OtL3dhe-8v8">
               <i class="flaticon-play"></i>
             </a>
           </div>
@@ -773,67 +773,67 @@
         <div class="col-12">
           <div class="blog-item">
             <div class="blog-thumb">
-            <img src="assets/images/Thumbnail YT.jpg" alt="blog">
-               <a class="video-button popup" href="https://www.youtube.com/watch?v=ZT3v_6Sea_s">
-              <i class="flaticon-play"></i>
-            </a>
-          </div>
-        </div>
-            </a>
+              <img src="assets/images/Thumbnail YT.jpg" alt="blog">
+              <a class="video-button popup" href="https://www.youtube.com/watch?v=ZT3v_6Sea_s">
+                <i class="flaticon-play"></i>
               </a>
             </div>
-    <div class="container">
-      <div class="m--15">
-        <div class="feature-slider">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div class="post-thumb" style="padding: 10px;">
-                <img src="assets/images/blog/gallery1.jpg" alt="Gambar">
+          </div>
+          </a>
+          </a>
+        </div>
+        <div class="container">
+          <div class="m--15">
+            <div class="feature-slider">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <div class="post-thumb" style="padding: 10px;">
+                    <img src="assets/images/blog/gallery1.jpg" alt="Gambar">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="post-thumb" style="padding: 10px;">
+                    <img src="assets/images/blog/gallery2.jpg" alt="Gambar">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="post-thumb" style="padding: 10px;">
+                    <img src="assets/images/blog/gallery3.jpg" alt="Gambar">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="post-thumb" style="padding: 10px;">
+                    <img src="assets/images/blog/gallery4.jpg" alt="blog">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="post-thumb" style="padding: 10px;">
+                    <img src="assets/images/blog/gallery5.jpg" alt="blog">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="post-thumb" style="padding: 10px;">
+                    <img src="assets/images/blog/gallery6.jpg" alt="blog">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="post-thumb" style="padding: 10px;">
+                    <img src="assets/images/blog/gallery7.jpg" alt="blog">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="post-thumb" style="padding: 10px;">
+                    <img src="assets/images/blog/gallery8.jpg" alt="blog">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="post-thumb" style="padding: 10px;">
+                    <img src="assets/images/blog/gallery9.jpg" alt="blog">
+                  </div>
+                </div>
               </div>
             </div>
-            <div class="swiper-slide">
-              <div class="post-thumb" style="padding: 10px;">
-                <img src="assets/images/blog/gallery2.jpg" alt="Gambar">
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="post-thumb" style="padding: 10px;">
-                <img src="assets/images/blog/gallery3.jpg" alt="Gambar">
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="post-thumb" style="padding: 10px;">
-                <img src="assets/images/blog/gallery4.jpg" alt="blog">
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="post-thumb" style="padding: 10px;">
-                <img src="assets/images/blog/gallery5.jpg" alt="blog">
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="post-thumb" style="padding: 10px;">
-                <img src="assets/images/blog/gallery6.jpg" alt="blog">
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="post-thumb" style="padding: 10px;">
-                <img src="assets/images/blog/gallery7.jpg" alt="blog">
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="post-thumb" style="padding: 10px;">
-                <img src="assets/images/blog/gallery8.jpg" alt="blog">
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="post-thumb" style="padding: 10px;">
-                <img src="assets/images/blog/gallery9.jpg" alt="blog">
-              </div>
-            </div>
-             </div>
-      </div>
-    </div>
+          </div>
   </section>
 
 
@@ -871,7 +871,25 @@
               <div class="feature-item">
                 <div class="feature-inner">
                   <div class="post-thumb">
-                    <a href="https://www.jamkrindo.co.id/"><img src="assets/images/sponsor/JAMKINDO.png" alt="blog"></a>
+                    <a href="https://www.jamkrindo.co.id/"><img src="assets/images/sponsor/jamkrindo.jpg" alt="blog"></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="feature-item">
+                <div class="feature-inner">
+                  <div class="post-thumb">
+                    <a href="https://www.unilever.co.id/"><img src="assets/images/sponsor/unilever.svg" alt="blog"></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="feature-item">
+                <div class="feature-inner">
+                  <div class="post-thumb">
+                    <a href="https://www.poltracking.com/"><img src="assets/images/sponsor/Logo-Poltracking-baru.png" alt="blog"></a>
                   </div>
                 </div>
               </div>
@@ -879,7 +897,6 @@
           </div>
         </div>
       </div>
-    </div>
     </div>
   </section>
 
@@ -897,13 +914,13 @@
             <div class="afiliate-content">
               <h6 class="title">Visit us</h6>
               <ul>
-              <li>
+                <li>
                   <a href="https://instagram.com/dynamics.nfbsbogor">Instagram</a>
                 </li>
                 <li>
-                <a href="Mailto:dynamics@smpit-nfbogor.sch.id">dynamics@smpit-nfbogor.sch.id</a>
+                  <a href="Mailto:dynamics@smpit-nfbogor.sch.id">dynamics@smpit-nfbogor.sch.id</a>
                 </li>
-                </ul>
+              </ul>
             </div>
           </div>
         </div>
@@ -927,8 +944,8 @@
         </div>
       </div>
     </div>
-    
-  
+  </section>
+
   <!-- ========Footer Section Starts Here======== -->
   <footer class="bg_img bg-lay" data-background="assets/images/footer/bg_footer.jpg">
     <div class="footer-top">
@@ -978,7 +995,7 @@
                   <span>Email</span>
                   <a href="Mailto:dynamics@smpit-nfbogor.sch.id">dynamics@smpit-nfbogor.sch.id</a>
                 </li>
-                </ul>
+              </ul>
             </div>
           </div>
         </div>
