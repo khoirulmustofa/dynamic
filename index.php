@@ -451,7 +451,7 @@
                   <div class="games-content">
                     <h5 class="title"><a href="#">Archery</a></h5>
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a target="blank" href="https://forms.gle/HJiejXVA4YFbCYmQ9" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
@@ -463,7 +463,7 @@
                   <div class="games-content">
                     <h5 class="title"><a href="#">Tradional Games</a></h5>
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a target="blank" href="https://forms.gle/HJiejXVA4YFbCYmQ9" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
@@ -475,7 +475,7 @@
                   <div class="games-content">
                     <h5 class="title"><a href="#">Futsal</a></h5>
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a target="blank" href="https://forms.gle/HJiejXVA4YFbCYmQ9" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
@@ -487,7 +487,7 @@
                   <div class="games-content">
                     <h5 class="title"><a href="#">Basketball</a></h5>
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a target="blank" href="https://forms.gle/HJiejXVA4YFbCYmQ9" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
@@ -915,7 +915,7 @@
               <h6 class="title">Visit us</h6>
               <ul>
                 <li>
-                  <a href="https://instagram.com/dynamics.nfbsbogor">Instagram</a>
+                  <a target="blank" href="https://instagram.com/dynamics.nfbsbogor">Instagram</a>
                 </li>
                 <li>
                   <a href="Mailto:dynamics@smpit-nfbogor.sch.id">dynamics@smpit-nfbogor.sch.id</a>
@@ -987,14 +987,14 @@
             <div class="footer-widget widget-contact">
               <h6 class="title">Contact Us</h6>
               <ul>
+                <span> Address </span>
                 <li>
-                  <span>Jl Jami, Sukaluyu, Tamansari, Bogor</span>
-                  <span>Jawa Barat, 16610</span>
+                <a target="blank" href="https://goo.gl/maps/73XnVAh2STeWmQTA8">Jl Jami, Sukaluyu, Tamansari, Bogor. Jawa Barat, 16610
                 </li>
-                <li>
-                  <span>Email</span>
-                  <a href="Mailto:dynamics@smpit-nfbogor.sch.id">dynamics@smpit-nfbogor.sch.id</a>
-                </li>
+                 <li>
+                    <span>Email</span>
+                    <a href="Mailto:dynamics@smpit-nfbogor.sch.id">dynamics@smpit-nfbogor.sch.id</a>
+                  </li>
               </ul>
             </div>
           </div>
