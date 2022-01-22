@@ -220,7 +220,7 @@
         <div class="col-md-7 pr-xl-5 mb-40">
           <div class="video-wrapper bg_img pos-rel bg-lay" data-background="assets/images/image_time_line.png">
             <img class="d-md-none" src="assets/images/image_time_line.png" alt="achivements" />
-            <a class="video-button popup" href="assets/video/TRAILER 2019.mp4">
+            <a class="video-button popup" href="https://www.youtube.com/watch?v=OtL3dhe-8v8&">
               <i class="flaticon-play"></i>
             </a>
           </div>
@@ -232,7 +232,7 @@
                 <div class="counter-header">
                   <h5 class="title"><a href="#">Open Registration</a></h5>
                 </div>
-                <p>1 january ~ 5 February 2022</p>
+                <p>1 january - 5 February 2022</p>
               </div>
             </div>
             <div class="col-sm-6 col-md-12">
@@ -248,7 +248,7 @@
                 <div class="counter-header">
                   <h5 class="title"><a href="#">Dynamics 2022</a></h5>
                 </div>
-                <p>10 ~ 12 February 2022</p>
+                <p>10 - 12 February 2022</p>
               </div>
             </div>
           </div>
@@ -774,7 +774,7 @@
           <div class="blog-item">
             <div class="blog-thumb">
             <img src="assets/images/Thumbnail YT.jpg" alt="blog">
-               <a class="video-button popup" href="assets/video/After Movie Dynamics 2K19 SMPIT Nurul Fikri Bogor.mp4">
+               <a class="video-button popup" href="https://www.youtube.com/watch?v=ZT3v_6Sea_s">
               <i class="flaticon-play"></i>
             </a>
           </div>
@@ -927,20 +927,7 @@
         </div>
       </div>
     </div>
-    <!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/61e643bcb84f7301d32b8c06/1fplnh6vk';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-<!--End of Tawk.to Script-->
-  </section>
+    
   
   <!-- ========Footer Section Starts Here======== -->
   <footer class="bg_img bg-lay" data-background="assets/images/footer/bg_footer.jpg">
