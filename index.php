@@ -894,6 +894,15 @@
                 </div>
               </div>
             </div>
+            <div class="swiper-slide">
+              <div class="feature-item">
+                <div class="feature-inner">
+                  <div class="post-thumb">
+                    <a href="http://www.newritachemical.com/"><img src="assets/images/sponsor/NEWRITA CHEMICALS.jfif" alt="blog"></a>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
