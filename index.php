@@ -1,7 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+<head> 
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NCSW715DZW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NCSW715DZW');
+</script>
+  <!-- End of Global site tag (gtag.js) - Google Analytics -->
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <title>DYNAMICS - SMPIT NFBS BOGOR</title>
