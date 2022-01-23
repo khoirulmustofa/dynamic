@@ -323,7 +323,7 @@
             <a class="nav-link" id="mhq-tab" data-toggle="tab" href="#mhq" role="tab" aria-controls="mhq" aria-selected="false">MHQ</a>
           </li>
           <li class="nav-item" role="presentation">
-            <a class="nav-link" id="gendai-tab" data-toggle="tab" href="#gendai" role="tab" aria-controls="gendai" aria-selected="false">Gen-Z Da'i Competition</a>
+            <a class="nav-link" id="gendai-tab" data-toggle="tab" href="#gendai" role="tab" aria-controls="gendai" aria-selected="false">Da'i Competition</a>
           </li>
         </ul>
         <!-- Tab panes -->
@@ -676,7 +676,7 @@
           <div class="blog-item">
             <div class="blog-thumb">
               <img src="assets/images/merchand/MERCH.png" alt="blog">
-              <a class="btn btn-success" target="blank" href="https://dyzar-2022.sirclo.me">click here 
+              <a class="btn btn-success" target="blank" href="https://dyzar-2022.sirclo.me">click here
                 <i class="flaticon-click"></i>
               </a>
             </div>
@@ -873,13 +873,13 @@
               <i class="flaticon-conversation"></i>
             </div>
             <div class="afiliate-content">
-              <h6 class="title">Live chat (Whatsapp)</h6>
+              <h6 class="title">Whatsapp</h6>
               <ul>
                 <li>
-                  <a href="https://api.whatsapp.com/send/?phone=6282194478842&text=Assalamu+Alaikum+Wr.Wb+NFBS+Bogor%0D%0ANama+saya+%3A+%0D%0ASaya+ingin+mengetahui+info+tentang+%3A&app_absent=0" target="_blank">0821-9447-8842 (Nurul)</a>
+                  <a href="https://api.whatsapp.com/send/?phone=6282194478842&text=Assalamualaikum+Dynamics+NFBS%0D%0ANama+saya+%3A+%0D%0ASaya+ingin+mengetahui+info+tentang+%3A&app_absent=0" target="_blank">0821-9447-8842 (Nurul)</a>
                 </li>
                 <li>
-                  <a href="https://api.whatsapp.com/send/?phone=628991461443&text=Assalamu+Alaikum+Wr.Wb+NFBS+Bogor%0D%0ANama+saya+%3A+%0D%0ASaya+ingin+mengetahui+info+tentang+%3A&app_absent=0" target="_blank">0899-1461-443 (Elsa)</a>
+                  <a href="https://api.whatsapp.com/send/?phone=6282194478842&text=Assalamualaikum+Dynamics+NFBS%0D%0ANama+saya+%3A+%0D%0ASaya+ingin+mengetahui+info+tentang+%3A&app_absent=0" target="_blank">0899-1461-443 (Elsa)</a>
                 </li>
               </ul>
             </div>
@@ -930,14 +930,14 @@
             <div class="footer-widget widget-contact">
               <h6 class="title">Contact Us</h6>
               <ul>
-                <span> Address </span>
+                <h6> Address </h6>
                 <li>
-                <a target="blank" href="https://goo.gl/maps/73XnVAh2STeWmQTA8">Jl Jami, Sukaluyu, Tamansari, Bogor. Jawa Barat, 16610
+                  <a target="blank" href="https://goo.gl/maps/73XnVAh2STeWmQTA8">Jl Jami, Sukaluyu, Tamansari, Bogor. Jawa Barat, 16610
                 </li>
-                 <li>
-                    <span>Email</span>
-                    <a href="Mailto:dynamics@smpit-nfbogor.sch.id">dynamics@smpit-nfbogor.sch.id</a>
-                  </li>
+                <li>
+                  <h6> Email </h6>
+                  <a href="Mailto:dynamics@smpit-nfbogor.sch.id">dynamics@smpit-nfbogor.sch.id</a>
+                </li>
               </ul>
             </div>
           </div>
@@ -949,7 +949,8 @@
         Copyright &copy; 2022. All Right Reserved by Dynamics NFBS Bogor
       </p>
     </div>
-  </footer>
+
+   
   <!-- ========Footer Section Ends Here======== -->
 
 
