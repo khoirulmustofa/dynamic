@@ -604,7 +604,7 @@
                   <div class="games-content">
                     <h5 class="title"><a href="#">Short Story</a></h5>
                     <a href="assets/guidelines/GenZ_Dai_Competition_MHQ_Cerpen_Guidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a target="blank" href="https://forms.gle/L8kiZVf6n2GYdCAS7" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
@@ -623,7 +623,7 @@
                   <div class="games-content">
                     <h5 class="title"><a href="#">MHQ</a></h5>
                     <a href="assets/guidelines/GenZ_Dai_Competition_MHQ_Cerpen_Guidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a target="blank" href="https://forms.gle/L8kiZVf6n2GYdCAS7" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
@@ -642,7 +642,7 @@
                   <div class="games-content">
                     <h5 class="title"><a href="#">Gen-Z Da'i</a></h5>
                     <a href="assets/guidelines/GenZ_Dai_Competition_MHQ_Cerpen_Guidelines.pdf" class="custom1-button active" download>Guidelines</a>
-                    <a href="#" class="custom-button active">Register</a>
+                    <a target="blank" href="https://forms.gle/L8kiZVf6n2GYdCAS7" class="custom-button active">Register</a>
                   </div>
                 </div>
               </div>
