@@ -5933,6 +5933,7 @@ form .custom-button {
   font-weight: 700;
   font-size: 20px;
   font-family: "Exo", sans-serif;
+  margin-top: 3px;
 }
 
 .custom1-button {
@@ -5946,6 +5947,21 @@ form .custom-button {
   font-weight: 700;
   font-size: 20px;
   font-family: "Exo", sans-serif;
+  margin-top: 3px;
+}
+
+.custom2-button {
+  font-weight: 700;
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 48px;
+  padding: 0px 30px;
+  background: transparent;
+  text-transform: uppercase;
+  border: 1px solid rgba(1, 121, 75, 0.9);
+  font-weight: 700;
+  font-size: 20px;
+  font-family: "Exo", sans-serif;
+  margin-top: 3px;
 }
 
 @media (max-width: 575px) {
@@ -6030,6 +6046,29 @@ form .custom-button {
   border-color: #fcce03;
 }
 
+.custom2-button.active {
+  color: #ffffff;
+  background-image: -moz-linear-gradient(
+    94deg,
+    #148300 24%,
+    #99d113 56%,
+    #4daf24 100%
+  );
+  background-image:-webkit-linear-gradient(
+    94deg,
+    #148300 24%,
+    #99d113 56%,
+    #4daf24 100%
+  );
+  background: -ms-linear-gradient(
+    94deg,
+    #148300 24%,
+    #99d113 56%,
+    #4daf24 100%
+  );
+  border-color: #02632e;
+}
+
 .custom-button.active:hover {
   color: rgba(255, 255, 255, 0.9);
   background: transparent;
@@ -6037,6 +6076,12 @@ form .custom-button {
 }
 
 .custom1-button.active:hover {
+  color: rgba(255, 255, 255, 0.9);
+  background: transparent;
+  border-color: rgba(255, 255, 255, 0.9);
+}
+
+.custom2-button.active:hover {
   color: rgba(255, 255, 255, 0.9);
   background: transparent;
   border-color: rgba(255, 255, 255, 0.9);

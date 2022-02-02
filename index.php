@@ -434,6 +434,7 @@
                     <h5 class="title"><a href="#">Pioneering</a></h5>
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
                     <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeieilLoxofnhEhuwqKLtBISWSjD_kkKCGWlQruLgDCWvCNtQ/viewform" href="_blank" class="custom2-button active">Upload Vidio</a>
                   </div>
                 </div>
               </div>
@@ -446,6 +447,7 @@
                     <h5 class="title"><a href="#">Kreasi Yel-Yel</a></h5>
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
                     <a href="#" class="custom-button active">Register</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfO5UR7JhaNL9FGpgGwx4DQWCyYGHmA0SoCjKaSuFrc_wMWug/viewform" href="_blank" class="custom2-button active">Upload Vidio</a>
                   </div>
                 </div>
               </div>
@@ -694,33 +696,6 @@
               </a>
             </div>
           </div>
-        </div>
-        <!-- </div> -->
-      </div>
-  </section>
-
-  <!-- Soal Scot -->
-  <section class="lends-section bg-overlay bg_img pt-5" id="merchandise" data-background="assets/images/background/bg_lomba.jpg">
-    <div class="container">
-      <div class="container">
-        <div class="section-header-2">
-          <h2 class="title">Upload Video Lomba Kreasi Yel-Yel NFSF - Dynamics 2022</h2>
-        </div>
-        <div class="col-12">
-          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfO5UR7JhaNL9FGpgGwx4DQWCyYGHmA0SoCjKaSuFrc_wMWug/viewform?embedded=true" width="1200" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-        </div>
-        <!-- </div> -->
-      </div>
-  </section>
-
-  <section class="lends-section padding-bottom bg-overlay bg_img pt-5" id="merchandise" data-background="assets/images/background/bg_lomba.jpg">
-    <div class="container">
-      <div class="container">
-        <div class="section-header-2">
-          <h2 class="title">Upload Video Lomba Pioneering NFSF - Dynamics 2022</h2>
-        </div>
-        <div class="col-12">
-          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeieilLoxofnhEhuwqKLtBISWSjD_kkKCGWlQruLgDCWvCNtQ/viewform?embedded=true" width="1200" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
         </div>
         <!-- </div> -->
       </div>
