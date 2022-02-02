@@ -1,16 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head> 
+<head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-NCSW715DZW"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-NCSW715DZW"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'G-NCSW715DZW');
-</script>
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-NCSW715DZW');
+  </script>
   <!-- End of Global site tag (gtag.js) - Google Analytics -->
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -686,13 +689,38 @@
           <div class="blog-item">
             <div class="blog-thumb">
               <img src="assets/images/merchand/MERCH.png" alt="blog">
-              <a class="btn btn-success" target="blank" href="https://dyzar-2022.sirclo.me">click here
+              <a class="custom1-button active text-center" target="blank" href="https://dyzar-2022.sirclo.me">click here
                 <i class="flaticon-click"></i>
               </a>
             </div>
           </div>
-          </a>
-          </a>
+        </div>
+        <!-- </div> -->
+      </div>
+  </section>
+
+  <!-- Soal Scot -->
+  <section class="lends-section bg-overlay bg_img pt-5" id="merchandise" data-background="assets/images/background/bg_lomba.jpg">
+    <div class="container">
+      <div class="container">
+        <div class="section-header-2">
+          <h2 class="title">Upload Video Lomba Kreasi Yel-Yel NFSF - Dynamics 2022</h2>
+        </div>
+        <div class="col-12">
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfO5UR7JhaNL9FGpgGwx4DQWCyYGHmA0SoCjKaSuFrc_wMWug/viewform?embedded=true" width="1200" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        </div>
+        <!-- </div> -->
+      </div>
+  </section>
+
+  <section class="lends-section padding-bottom bg-overlay bg_img pt-5" id="merchandise" data-background="assets/images/background/bg_lomba.jpg">
+    <div class="container">
+      <div class="container">
+        <div class="section-header-2">
+          <h2 class="title">Upload Video Lomba Pioneering NFSF - Dynamics 2022</h2>
+        </div>
+        <div class="col-12">
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeieilLoxofnhEhuwqKLtBISWSjD_kkKCGWlQruLgDCWvCNtQ/viewform?embedded=true" width="1200" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
         </div>
         <!-- </div> -->
       </div>
@@ -714,8 +742,6 @@
               </a>
             </div>
           </div>
-          </a>
-          </a>
         </div>
         <div class="container">
           <div class="m--15">
@@ -769,6 +795,9 @@
               </div>
             </div>
           </div>
+        </div>
+      </div>
+    </div>
   </section>
 
 
@@ -960,48 +989,48 @@
       </p>
     </div>
 
-   
-  <!-- ========Footer Section Ends Here======== -->
+
+    <!-- ========Footer Section Ends Here======== -->
 
 
-  <script src="assets/js/jquery-3.3.1.min.js"></script>
-  <script src="assets/js/modernizr-3.6.0.min.js"></script>
-  <script src="assets/js/plugins.js"></script>
-  <script src="assets/js/bootstrap.min.js"></script>
-  <script src="assets/js/isotope.pkgd.min.js"></script>
-  <script src="assets/js/magnific-popup.min.js"></script>
-  <script src="assets/js/swiper.min.js"></script>
-  <script src="assets/js/wow.min.js"></script>
-  <script src="assets/js/odometer.min.js"></script>
-  <script src="assets/js/viewport.jquery.js"></script>
-  <script src="assets/js/nice-select.js"></script>
-  <script src="assets/js/main.js"></script>
-  <script>
-    $(document).on('click', 'a[href^="#"]', function(event) {
-      event.preventDefault();
-      $('html, body').animate({
-        scrollTop: $($.attr(this, 'href')).offset().top
-      }, 500);
-    });
-    $(document).ready(function() {
-      var galleryThumbs = new Swiper(".slider-thumbs", {
-        slidesPerView: 3,
-        loop: false,
-        watchSlidesVisibility: true,
-        watchSlidesProgress: true,
-        spaceBetween: 15,
+    <script src="assets/js/jquery-3.3.1.min.js"></script>
+    <script src="assets/js/modernizr-3.6.0.min.js"></script>
+    <script src="assets/js/plugins.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <script src="assets/js/magnific-popup.min.js"></script>
+    <script src="assets/js/swiper.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/odometer.min.js"></script>
+    <script src="assets/js/viewport.jquery.js"></script>
+    <script src="assets/js/nice-select.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script>
+      $(document).on('click', 'a[href^="#"]', function(event) {
+        event.preventDefault();
+        $('html, body').animate({
+          scrollTop: $($.attr(this, 'href')).offset().top
+        }, 500);
       });
-      var galleryTop = new Swiper(".review-slider", {
-        slidesPerView: 1,
-        loop: false,
-        thumbs: {
-          swiper: galleryThumbs,
-        },
+      $(document).ready(function() {
+        var galleryThumbs = new Swiper(".slider-thumbs", {
+          slidesPerView: 3,
+          loop: false,
+          watchSlidesVisibility: true,
+          watchSlidesProgress: true,
+          spaceBetween: 15,
+        });
+        var galleryTop = new Swiper(".review-slider", {
+          slidesPerView: 1,
+          loop: false,
+          thumbs: {
+            swiper: galleryThumbs,
+          },
+        });
+        galleryTop.controller.control = galleryThumbs;
+        galleryThumbs.controller.control = galleryTop;
       });
-      galleryTop.controller.control = galleryThumbs;
-      galleryThumbs.controller.control = galleryTop;
-    });
-  </script>
+    </script>
 </body>
 
 </html>
