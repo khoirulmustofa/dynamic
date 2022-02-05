@@ -386,6 +386,7 @@
                     <h5 class="title"><a href="#">Morse</a></h5>
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
                     <a href="#" class="custom-button active">Register</a>
+                    <a href="https://app.nfbsbogor.sch.id/dynamics/" href="_blank" class="custom2-button active">Start Competition</a>
                   </div>
                 </div>
               </div>
@@ -398,6 +399,7 @@
                     <h5 class="title"><a href="#">Semaphore</a></h5>
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
                     <a href="#" class="custom-button active">Register</a>
+                    <a href="https://app.nfbsbogor.sch.id/dynamics/" href="_blank" class="custom2-button active">Start Competition</a>
                   </div>
                 </div>
               </div>
@@ -410,6 +412,7 @@
                     <h5 class="title"><a href="#">PUPK</a></h5>
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
                     <a href="#" class="custom-button active">Register</a>
+                    <a href="https://app.nfbsbogor.sch.id/dynamics/" href="_blank" class="custom2-button active">Start Competition</a>
                   </div>
                 </div>
               </div>
@@ -422,6 +425,7 @@
                     <h5 class="title"><a href="#">PPGD</a></h5>
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
                     <a href="#" class="custom-button active">Register</a>
+                    <a href="https://app.nfbsbogor.sch.id/dynamics/" href="_blank" class="custom2-button active">Start Competition</a>
                   </div>
                 </div>
               </div>
@@ -434,7 +438,7 @@
                     <h5 class="title"><a href="#">Pioneering</a></h5>
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
                     <a href="#" class="custom-button active">Register</a>
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeieilLoxofnhEhuwqKLtBISWSjD_kkKCGWlQruLgDCWvCNtQ/viewform" href="_blank" class="custom2-button active">Upload Vidio</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeieilLoxofnhEhuwqKLtBISWSjD_kkKCGWlQruLgDCWvCNtQ/viewform" href="_blank" class="custom2-button active">Upload Video</a>
                   </div>
                 </div>
               </div>
@@ -447,7 +451,7 @@
                     <h5 class="title"><a href="#">Kreasi Yel-Yel</a></h5>
                     <a href="assets/guidelines/NurulFikriScoutFestivalGuidelines.pdf" class="custom1-button active" download>Guidelines</a>
                     <a href="#" class="custom-button active">Register</a>
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfO5UR7JhaNL9FGpgGwx4DQWCyYGHmA0SoCjKaSuFrc_wMWug/viewform" href="_blank" class="custom2-button active">Upload Vidio</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfO5UR7JhaNL9FGpgGwx4DQWCyYGHmA0SoCjKaSuFrc_wMWug/viewform" href="_blank" class="custom2-button active">Upload Video</a>
                   </div>
                 </div>
               </div>
